@@ -1,0 +1,1156 @@
+,START_DATE,START_TIME,START,STOP,END_DATE,END_TIME,RIDE_DURATION,MILES,FARE,DAY_NIGHT,PURPOSE,ROUND_TRIP,CATEGORY
+0,07-02-2016,13:55:00,Fort Pierce,Fort Pierce,07-02-2016,14:09:00,14,5.1,56.1,AFTER-NOON,Meeting,Yes,Business
+1,26-06-2016,20:48:00,Tampa,Fort Pierce,26-06-2016,21:31:00,43,33.4,367.4,NIGHT,Errand/Supplies,No,Business
+2,25-06-2016,08:02:00,Kissimmee,Palm Bay,25-06-2016,08:35:00,33,21.7,238.7,MORNING,Meeting,No,Business
+3,17-04-2016,17:06:00,Kissimmee,Miami,17-04-2016,18:42:00,96,32.2,354.2,EVENING,Errand/Supplies,No,Business
+4,26-06-2016,16:21:00,Orlando,Miami,26-06-2016,16:33:00,12,8.8,96.8,EVENING,Meeting,No,Business
+5,17-04-2016,10:12:00,Miami,Orlando,17-04-2016,11:26:00,74,35.5,390.5,AFTER-NOON,Customer Visit,No,Business
+6,04-04-2016,07:38:00,Fort Pierce,Tampa,04-04-2016,09:26:00,108,77.2,849.2,MORNING,Errand/Supplies,No,Personal
+7,27-05-2016,14:08:00,Palm Bay,West Palm Beach,27-05-2016,15:53:00,105,63.6,699.6,AFTER-NOON,Meeting,No,Personal
+8,14-06-2016,11:51:00,Tampa,Fort Pierce,14-06-2016,13:37:00,106,33.4,367.4,AFTER-NOON,Customer Visit,No,Business
+9,02-03-2016,14:20:00,Kissimmee,Fort Pierce,02-03-2016,15:57:00,97,32,352,AFTER-NOON,Meal/Entertain,No,Business
+10,10-01-2016,17:41:00,Palm Bay,Fort Pierce,10-01-2016,18:09:00,28,9.7,106.7,EVENING,Errand/Supplies,No,Business
+11,27-01-2016,15:46:00,Orlando,Fort Pierce,27-01-2016,16:00:00,14,9.6,105.6,EVENING,Meeting,No,Business
+12,20-03-2016,09:54:00,Orlando,Palm Bay,20-03-2016,10:25:00,31,9.8,107.8,MORNING,Meeting,No,Business
+13,04-04-2016,12:25:00,Tampa,Palm Bay,04-04-2016,14:22:00,117,84,924,AFTER-NOON,Meeting,No,Personal
+14,28-05-2016,09:28:00,Tampa,Kissimmee,28-05-2016,10:08:00,40,16.1,177.1,MORNING,Meal/Entertain,No,Business
+15,02-06-2016,11:16:00,Fort Pierce,West Palm Beach,02-06-2016,13:15:00,119,52.2,574.2,AFTER-NOON,Meeting,No,Business
+16,15-02-2016,09:06:00,Tampa,Tampa,15-02-2016,10:21:00,75,25.2,277.2,MORNING,Meeting,Yes,Business
+17,06-01-2016,09:57:00,Fort Pierce,Kissimmee,06-01-2016,11:51:00,114,83.7,920.7,MORNING,Customer Visit,No,Business
+18,10-06-2016,18:12:00,Miami,Palm Bay,10-06-2016,20:12:00,120,82.8,910.8,EVENING,Errand/Supplies,No,Business
+19,02-02-2016,16:26:00,Orlando,West Palm Beach,02-02-2016,17:09:00,43,28.4,312.4,EVENING,Meeting,No,Business
+20,20-03-2016,06:57:00,Miami,West Palm Beach,20-03-2016,07:32:00,35,10.6,116.6,MORNING,Meeting,No,Business
+21,17-02-2016,06:15:00,Orlando,Fort Pierce,17-02-2016,07:26:00,71,46.1,507.1,MORNING,Meeting,No,Business
+22,25-01-2016,13:10:00,Palm Bay,West Palm Beach,25-01-2016,14:40:00,90,56.1,617.1,AFTER-NOON,Meeting,No,Personal
+23,20-04-2016,17:37:00,Kissimmee,Orlando,20-04-2016,18:44:00,67,29.5,324.5,EVENING,Errand/Supplies,No,Business
+24,12-03-2016,12:40:00,Palm Bay,West Palm Beach,12-03-2016,14:29:00,109,61.4,675.4,AFTER-NOON,Meal/Entertain,No,Business
+25,25-02-2016,11:09:00,Kissimmee,West Palm Beach,25-02-2016,13:05:00,116,91.8,1009.8,AFTER-NOON,Meeting,No,Business
+26,16-06-2016,10:36:00,Miami,Palm Bay,16-06-2016,10:49:00,13,7.5,82.5,AFTER-NOON,Customer Visit,No,Personal
+27,10-06-2016,07:06:00,West Palm Beach,West Palm Beach,10-06-2016,07:53:00,47,20.4,224.4,MORNING,Errand/Supplies,Yes,Business
+28,18-04-2016,07:30:00,West Palm Beach,West Palm Beach,18-04-2016,07:55:00,25,14,154,MORNING,Meeting,Yes,Business
+29,14-06-2016,08:14:00,Palm Bay,West Palm Beach,14-06-2016,09:29:00,75,43.6,479.6,MORNING,Customer Visit,No,Personal
+30,29-02-2016,20:16:00,Palm Bay,Palm Bay,29-02-2016,21:48:00,92,51.7,568.7,NIGHT,Meeting,Yes,Business
+31,31-05-2016,14:36:00,Orlando,Miami,31-05-2016,15:42:00,66,45.7,502.7,AFTER-NOON,Meeting,No,Personal
+32,28-02-2016,09:09:00,Miami,Fort Pierce,28-02-2016,10:58:00,109,84,924,MORNING,Meeting,No,Business
+33,23-06-2016,19:54:00,Palm Bay,Tampa,23-06-2016,21:33:00,99,79.1,870.1,NIGHT,Errand/Supplies,No,Business
+34,19-01-2016,08:06:00,Fort Pierce,Orlando,19-01-2016,09:11:00,65,43.5,478.5,MORNING,Customer Visit,No,Business
+35,10-01-2016,15:01:00,Miami,Miami,10-01-2016,15:13:00,12,5.2,57.2,EVENING,Meeting,Yes,Business
+36,07-06-2016,09:09:00,Fort Pierce,Kissimmee,07-06-2016,10:11:00,62,23.7,260.7,MORNING,Airport/Travel,No,Business
+37,17-06-2016,09:07:00,Palm Bay,Tampa,17-06-2016,10:20:00,73,47.9,526.9,MORNING,Meeting,No,Business
+38,20-06-2016,16:19:00,Tampa,Fort Pierce,20-06-2016,17:02:00,43,13.3,146.3,EVENING,Customer Visit,No,Business
+39,17-01-2016,12:25:00,West Palm Beach,West Palm Beach,17-01-2016,13:56:00,91,64.7,711.7,AFTER-NOON,Meeting,Yes,Business
+40,19-01-2016,17:56:00,Kissimmee,Palm Bay,19-01-2016,19:00:00,64,31.9,350.9,EVENING,Meeting,No,Business
+41,15-06-2016,07:53:00,West Palm Beach,Tampa,15-06-2016,09:14:00,81,28.1,309.1,MORNING,Meal/Entertain,No,Business
+42,18-05-2016,16:11:00,Orlando,Tampa,18-05-2016,16:41:00,30,11.6,127.6,EVENING,Meeting,No,Business
+43,03-01-2016,19:31:00,Kissimmee,West Palm Beach,03-01-2016,19:45:00,14,9,99,NIGHT,Customer Visit,No,Business
+44,26-01-2016,09:33:00,Fort Pierce,Palm Bay,26-01-2016,10:55:00,82,63.7,700.7,MORNING,Meeting,No,Business
+45,30-04-2016,16:59:00,West Palm Beach,Palm Bay,30-04-2016,17:09:00,10,3.6,39.6,EVENING,Meal/Entertain,No,Business
+46,12-01-2016,14:55:00,West Palm Beach,Palm Bay,12-01-2016,15:17:00,22,16.9,185.9,AFTER-NOON,Meal/Entertain,No,Business
+47,25-02-2016,07:51:00,Palm Bay,Orlando,25-02-2016,09:45:00,114,42.6,468.6,MORNING,Meal/Entertain,No,Business
+48,09-03-2016,13:50:00,Fort Pierce,Miami,09-03-2016,14:54:00,64,35.2,387.2,AFTER-NOON,Meal/Entertain,No,Business
+49,16-06-2016,20:59:00,Palm Bay,Palm Bay,16-06-2016,22:45:00,106,77.8,855.8,NIGHT,Meal/Entertain,Yes,Personal
+50,25-04-2016,20:50:00,Orlando,Tampa,25-04-2016,22:10:00,80,38.5,423.5,NIGHT,Errand/Supplies,No,Personal
+51,21-05-2016,19:00:00,Kissimmee,Orlando,21-05-2016,20:06:00,66,38.5,423.5,NIGHT,Meeting,No,Business
+52,05-02-2016,20:18:00,Miami,Miami,05-02-2016,21:04:00,46,30.9,339.9,NIGHT,Airport/Travel,Yes,Business
+53,12-06-2016,11:51:00,Orlando,Kissimmee,12-06-2016,12:58:00,67,48.5,533.5,AFTER-NOON,Meeting,No,Business
+54,23-06-2016,08:33:00,Kissimmee,Tampa,23-06-2016,10:03:00,90,65.1,716.1,MORNING,Errand/Supplies,No,Business
+55,15-01-2016,17:39:00,Orlando,Tampa,15-01-2016,18:29:00,50,25.8,283.8,EVENING,Errand/Supplies,No,Personal
+56,15-01-2016,15:52:00,Fort Pierce,West Palm Beach,15-01-2016,17:15:00,83,28.5,313.5,EVENING,Meeting,No,Business
+57,09-06-2016,12:52:00,Kissimmee,Miami,09-06-2016,13:39:00,47,34.2,376.2,AFTER-NOON,Meeting,No,Personal
+58,05-06-2016,18:34:00,Fort Pierce,Tampa,05-06-2016,20:13:00,99,33.3,366.3,EVENING,Meeting,No,Business
+59,25-04-2016,16:23:00,Tampa,Fort Pierce,25-04-2016,16:58:00,35,18.7,205.7,EVENING,Meeting,No,Business
+60,31-05-2016,18:55:00,Tampa,West Palm Beach,31-05-2016,20:54:00,119,42,462,EVENING,Meal/Entertain,No,Business
+61,02-02-2016,15:13:00,Miami,Palm Bay,02-02-2016,16:25:00,72,41.2,453.2,EVENING,Errand/Supplies,No,Business
+62,04-03-2016,12:10:00,Tampa,Kissimmee,04-03-2016,12:55:00,45,32.6,358.6,AFTER-NOON,Customer Visit,No,Business
+63,24-04-2016,15:02:00,Miami,West Palm Beach,24-04-2016,16:07:00,65,39.1,430.1,EVENING,Customer Visit,No,Business
+64,13-05-2016,10:29:00,Kissimmee,Palm Bay,13-05-2016,11:14:00,45,20.8,228.8,AFTER-NOON,Customer Visit,No,Personal
+65,19-05-2016,14:50:00,Tampa,Miami,19-05-2016,15:04:00,14,8.6,94.6,AFTER-NOON,Meeting,No,Business
+66,16-03-2016,16:39:00,Orlando,Palm Bay,16-03-2016,18:09:00,90,30.1,331.1,EVENING,Meeting,No,Business
+67,01-02-2016,09:36:00,Tampa,Kissimmee,01-02-2016,10:46:00,70,37.3,410.3,MORNING,Airport/Travel,No,Personal
+68,17-05-2016,07:03:00,Palm Bay,Kissimmee,17-05-2016,07:41:00,38,15.7,172.7,MORNING,Customer Visit,No,Business
+69,06-03-2016,09:15:00,West Palm Beach,Palm Bay,06-03-2016,10:43:00,88,35.1,386.1,MORNING,Airport/Travel,No,Personal
+70,11-02-2016,06:59:00,Miami,West Palm Beach,11-02-2016,08:06:00,67,34.6,380.6,MORNING,Meeting,No,Personal
+71,25-02-2016,12:53:00,Fort Pierce,West Palm Beach,25-02-2016,14:04:00,71,44.4,488.4,AFTER-NOON,Customer Visit,No,Business
+72,20-01-2016,18:08:00,West Palm Beach,Palm Bay,20-01-2016,18:39:00,31,23.5,258.5,EVENING,Meal/Entertain,No,Business
+73,05-03-2016,16:59:00,Fort Pierce,Tampa,05-03-2016,18:48:00,109,70.3,773.3,EVENING,Meeting,No,Business
+74,21-05-2016,18:03:00,Orlando,Palm Bay,21-05-2016,18:18:00,15,11.1,122.1,EVENING,Meeting,No,Business
+75,30-04-2016,11:54:00,Kissimmee,Palm Bay,30-04-2016,12:51:00,57,21,231,AFTER-NOON,Meeting,No,Business
+76,12-06-2016,20:32:00,West Palm Beach,Tampa,12-06-2016,22:03:00,91,50.8,558.8,NIGHT,Meal/Entertain,No,Personal
+77,15-01-2016,20:27:00,West Palm Beach,Miami,15-01-2016,22:17:00,110,65.4,719.4,NIGHT,Meeting,No,Business
+78,21-01-2016,13:03:00,Palm Bay,Fort Pierce,21-01-2016,13:55:00,52,39.1,430.1,AFTER-NOON,Errand/Supplies,No,Personal
+79,26-04-2016,16:28:00,Kissimmee,Miami,26-04-2016,17:02:00,34,26.7,293.7,EVENING,Airport/Travel,No,Business
+80,10-04-2016,19:08:00,Fort Pierce,Miami,10-04-2016,21:01:00,113,59,649,NIGHT,Meeting,No,Business
+81,11-05-2016,14:24:00,Tampa,Miami,11-05-2016,15:25:00,61,31.5,346.5,AFTER-NOON,Airport/Travel,No,Business
+82,16-01-2016,10:02:00,Fort Pierce,Tampa,16-01-2016,10:49:00,47,27.3,300.3,AFTER-NOON,Meal/Entertain,No,Business
+83,16-06-2016,20:32:00,Palm Bay,Orlando,16-06-2016,22:16:00,104,51,561,NIGHT,Meal/Entertain,No,Business
+84,28-02-2016,09:06:00,Kissimmee,Orlando,28-02-2016,09:20:00,14,8.9,97.9,MORNING,Meeting,No,Business
+85,29-03-2016,14:57:00,Palm Bay,Palm Bay,29-03-2016,15:51:00,54,27,297,AFTER-NOON,Meal/Entertain,Yes,Business
+86,04-02-2016,19:53:00,Kissimmee,Palm Bay,04-02-2016,20:39:00,46,15.1,166.1,NIGHT,Meeting,No,Business
+87,13-05-2016,07:34:00,Tampa,Palm Bay,13-05-2016,08:28:00,54,36.3,399.3,MORNING,Meeting,No,Business
+88,01-04-2016,12:05:00,West Palm Beach,Miami,01-04-2016,13:23:00,78,29.6,325.6,AFTER-NOON,Meal/Entertain,No,Business
+89,07-02-2016,08:47:00,West Palm Beach,Tampa,07-02-2016,09:21:00,34,22.1,243.1,MORNING,Errand/Supplies,No,Personal
+90,16-01-2016,11:31:00,Palm Bay,Miami,16-01-2016,12:43:00,72,25.9,284.9,AFTER-NOON,Meeting,No,Business
+91,31-05-2016,11:46:00,Tampa,Miami,31-05-2016,13:45:00,119,50.2,552.2,AFTER-NOON,Meeting,No,Personal
+92,13-03-2016,15:24:00,Miami,West Palm Beach,13-03-2016,17:22:00,118,86.8,954.8,EVENING,Meeting,No,Business
+93,18-03-2016,17:43:00,Palm Bay,Orlando,18-03-2016,18:40:00,57,33.7,370.7,EVENING,Meeting,No,Business
+94,19-05-2016,14:30:00,West Palm Beach,Miami,19-05-2016,16:20:00,110,83.6,919.6,AFTER-NOON,Airport/Travel,No,Business
+95,29-04-2016,13:55:00,Kissimmee,Orlando,29-04-2016,14:28:00,33,16.8,184.8,AFTER-NOON,Meeting,No,Business
+96,28-04-2016,10:14:00,Orlando,Miami,28-04-2016,11:02:00,48,22.6,248.6,AFTER-NOON,Meeting,No,Business
+97,04-03-2016,18:12:00,Orlando,Palm Bay,04-03-2016,19:08:00,56,24,264,EVENING,Meeting,No,Business
+98,09-01-2016,14:32:00,Miami,Tampa,09-01-2016,16:23:00,111,65.7,722.7,AFTER-NOON,Errand/Supplies,No,Business
+99,14-04-2016,10:50:00,Tampa,Orlando,14-04-2016,12:35:00,105,59,649,AFTER-NOON,Customer Visit,No,Business
+100,17-05-2016,20:42:00,Tampa,Miami,17-05-2016,21:17:00,35,28,308,NIGHT,Customer Visit,No,Personal
+101,20-03-2016,06:16:00,Kissimmee,Orlando,20-03-2016,07:32:00,76,38.8,426.8,MORNING,Meeting,No,Business
+102,06-05-2016,13:07:00,Palm Bay,West Palm Beach,06-05-2016,13:33:00,26,15.8,173.8,AFTER-NOON,Customer Visit,No,Personal
+103,15-05-2016,15:54:00,Fort Pierce,Fort Pierce,15-05-2016,17:37:00,103,48.1,529.1,EVENING,Meal/Entertain,Yes,Business
+104,25-05-2016,06:50:00,Orlando,Miami,25-05-2016,07:30:00,40,29.3,322.3,MORNING,Errand/Supplies,No,Business
+105,01-03-2016,10:41:00,Palm Bay,Orlando,01-03-2016,11:43:00,62,36.3,399.3,AFTER-NOON,Meal/Entertain,No,Business
+106,17-04-2016,15:20:00,Kissimmee,Orlando,17-04-2016,16:23:00,63,24.3,267.3,EVENING,Customer Visit,No,Business
+107,23-05-2016,13:03:00,Palm Bay,Palm Bay,23-05-2016,14:16:00,73,45.3,498.3,AFTER-NOON,Meal/Entertain,Yes,Personal
+108,13-03-2016,14:21:00,West Palm Beach,Palm Bay,13-03-2016,14:43:00,22,10.4,114.4,AFTER-NOON,Errand/Supplies,No,Business
+109,10-02-2016,20:39:00,Orlando,Kissimmee,10-02-2016,22:18:00,99,66.6,732.6,NIGHT,Customer Visit,No,Business
+110,10-01-2016,09:33:00,West Palm Beach,Orlando,10-01-2016,10:01:00,28,21.6,237.6,MORNING,Customer Visit,No,Business
+111,05-02-2016,09:02:00,Tampa,Orlando,05-02-2016,09:33:00,31,14.3,157.3,MORNING,Meeting,No,Business
+112,31-01-2016,13:38:00,Miami,Kissimmee,31-01-2016,13:43:00,5,1.7,18.7,AFTER-NOON,Errand/Supplies,No,Business
+113,29-02-2016,13:53:00,West Palm Beach,Miami,29-02-2016,14:23:00,30,17.9,196.9,AFTER-NOON,Customer Visit,No,Personal
+114,24-06-2016,13:01:00,Palm Bay,Fort Pierce,24-06-2016,14:41:00,100,44.6,490.6,AFTER-NOON,Airport/Travel,No,Personal
+115,11-01-2016,16:52:00,Orlando,Orlando,11-01-2016,17:54:00,62,35.2,387.2,EVENING,Meal/Entertain,Yes,Business
+116,23-06-2016,18:57:00,Kissimmee,Miami,23-06-2016,20:37:00,100,65.6,721.6,EVENING,Meeting,No,Personal
+117,24-01-2016,13:13:00,Orlando,Orlando,24-01-2016,13:53:00,40,22.5,247.5,AFTER-NOON,Airport/Travel,Yes,Business
+118,16-03-2016,15:36:00,Palm Bay,West Palm Beach,16-03-2016,16:56:00,80,54.8,602.8,EVENING,Meeting,No,Business
+119,07-02-2016,09:05:00,Miami,Tampa,07-02-2016,10:58:00,113,56,616,MORNING,Meeting,No,Business
+120,16-03-2016,16:11:00,Tampa,Orlando,16-03-2016,17:13:00,62,44.7,491.7,EVENING,Meal/Entertain,No,Business
+121,26-04-2016,06:14:00,Fort Pierce,Palm Bay,26-04-2016,07:02:00,48,19.5,214.5,MORNING,Errand/Supplies,No,Personal
+122,12-03-2016,14:11:00,Orlando,Miami,12-03-2016,15:49:00,98,45.8,503.8,AFTER-NOON,Meal/Entertain,No,Business
+123,23-06-2016,20:19:00,Kissimmee,Palm Bay,23-06-2016,21:36:00,77,28.6,314.6,NIGHT,Meal/Entertain,No,Business
+124,12-06-2016,15:40:00,Miami,Tampa,12-06-2016,16:20:00,40,22.8,250.8,EVENING,Errand/Supplies,No,Business
+125,02-05-2016,14:13:00,Kissimmee,Fort Pierce,02-05-2016,14:26:00,13,5.2,57.2,AFTER-NOON,Meal/Entertain,No,Business
+126,16-02-2016,16:49:00,Tampa,West Palm Beach,16-02-2016,17:33:00,44,33.6,369.6,EVENING,Customer Visit,No,Business
+127,16-03-2016,19:21:00,Tampa,West Palm Beach,16-03-2016,20:24:00,63,23.3,256.3,NIGHT,Meeting,No,Business
+128,28-04-2016,06:36:00,Fort Pierce,Fort Pierce,28-04-2016,07:12:00,36,16.6,182.6,MORNING,Errand/Supplies,Yes,Business
+129,17-04-2016,19:23:00,Orlando,Palm Bay,17-04-2016,19:32:00,9,4.5,49.5,NIGHT,Meal/Entertain,No,Business
+130,31-01-2016,19:29:00,Kissimmee,Kissimmee,31-01-2016,20:45:00,76,50.7,557.7,NIGHT,Meeting,Yes,Business
+131,16-05-2016,11:34:00,Tampa,Orlando,16-05-2016,11:43:00,9,3.5,38.5,AFTER-NOON,Customer Visit,No,Business
+132,16-04-2016,08:27:00,Miami,Fort Pierce,16-04-2016,09:14:00,47,16.5,181.5,MORNING,Meeting,No,Business
+133,30-05-2016,14:36:00,West Palm Beach,Palm Bay,30-05-2016,15:15:00,39,13.7,150.7,AFTER-NOON,Meeting,No,Business
+134,03-03-2016,13:25:00,Miami,Kissimmee,03-03-2016,14:24:00,59,30.3,333.3,AFTER-NOON,Meal/Entertain,No,Business
+135,25-06-2016,10:03:00,Tampa,Tampa,25-06-2016,11:47:00,104,36.9,405.9,AFTER-NOON,Meeting,Yes,Personal
+136,11-01-2016,10:52:00,Miami,Orlando,11-01-2016,11:35:00,43,19.3,212.3,AFTER-NOON,Meal/Entertain,No,Personal
+137,03-04-2016,19:00:00,Kissimmee,West Palm Beach,03-04-2016,20:55:00,115,41.5,456.5,NIGHT,Meeting,No,Business
+138,15-01-2016,09:46:00,Kissimmee,West Palm Beach,15-01-2016,10:55:00,69,45.7,502.7,MORNING,Meal/Entertain,No,Business
+139,14-02-2016,06:48:00,Palm Bay,West Palm Beach,14-02-2016,08:00:00,72,33.6,369.6,MORNING,Customer Visit,No,Business
+140,10-04-2016,08:23:00,Tampa,West Palm Beach,10-04-2016,08:58:00,35,23.3,256.3,MORNING,Meeting,No,Personal
+141,25-05-2016,19:30:00,Tampa,Miami,25-05-2016,21:11:00,101,30.6,336.6,NIGHT,Meal/Entertain,No,Personal
+142,19-04-2016,10:53:00,Tampa,Palm Bay,19-04-2016,10:59:00,6,4.3,47.3,AFTER-NOON,Customer Visit,No,Business
+143,13-02-2016,10:17:00,Orlando,Miami,13-02-2016,11:01:00,44,24.2,266.2,AFTER-NOON,Meeting,No,Business
+144,25-03-2016,19:02:00,Fort Pierce,Fort Pierce,25-03-2016,20:57:00,115,65.4,719.4,NIGHT,Errand/Supplies,Yes,Business
+145,27-05-2016,20:38:00,Tampa,Tampa,27-05-2016,21:39:00,61,30.8,338.8,NIGHT,Errand/Supplies,Yes,Personal
+146,12-05-2016,14:09:00,Orlando,West Palm Beach,12-05-2016,15:26:00,77,36.1,397.1,AFTER-NOON,Customer Visit,No,Personal
+147,02-04-2016,10:05:00,Miami,Miami,02-04-2016,10:12:00,7,5.5,60.5,AFTER-NOON,Meeting,Yes,Business
+148,26-06-2016,15:14:00,Kissimmee,Miami,26-06-2016,17:05:00,111,57.6,633.6,EVENING,Customer Visit,No,Personal
+149,12-01-2016,09:37:00,Tampa,Palm Bay,12-01-2016,11:14:00,97,71.1,782.1,MORNING,Errand/Supplies,No,Business
+150,16-02-2016,18:08:00,Fort Pierce,Palm Bay,16-02-2016,18:18:00,10,5.8,63.8,EVENING,Meal/Entertain,No,Business
+151,23-03-2016,20:01:00,Tampa,Palm Bay,23-03-2016,21:37:00,96,74,814,NIGHT,Customer Visit,No,Business
+152,19-02-2016,08:43:00,West Palm Beach,Palm Bay,19-02-2016,09:30:00,47,28.1,309.1,MORNING,Meeting,No,Personal
+153,19-03-2016,10:57:00,Miami,Kissimmee,19-03-2016,12:03:00,66,29.1,320.1,AFTER-NOON,Meeting,No,Business
+154,16-02-2016,18:26:00,West Palm Beach,Palm Bay,16-02-2016,18:33:00,7,5.6,61.6,EVENING,Airport/Travel,No,Personal
+155,27-06-2016,14:05:00,Kissimmee,Fort Pierce,27-06-2016,15:26:00,81,45.3,498.3,AFTER-NOON,Meeting,No,Personal
+156,23-06-2016,13:01:00,Orlando,Tampa,23-06-2016,14:38:00,97,43.8,481.8,AFTER-NOON,Meal/Entertain,No,Business
+157,19-06-2016,07:03:00,Palm Bay,Palm Bay,19-06-2016,07:24:00,21,16.8,184.8,MORNING,Customer Visit,Yes,Personal
+158,24-06-2016,20:14:00,Tampa,Palm Bay,24-06-2016,20:27:00,13,4.9,53.9,NIGHT,Meeting,No,Business
+159,11-01-2016,16:23:00,Fort Pierce,Palm Bay,11-01-2016,18:03:00,100,49,539,EVENING,Customer Visit,No,Personal
+160,21-05-2016,15:57:00,West Palm Beach,Orlando,21-05-2016,16:42:00,45,35.8,393.8,EVENING,Meeting,No,Business
+161,19-02-2016,18:24:00,West Palm Beach,Fort Pierce,19-02-2016,20:06:00,102,35.5,390.5,EVENING,Meeting,No,Personal
+162,30-03-2016,06:53:00,Miami,Kissimmee,30-03-2016,08:04:00,71,36.6,402.6,MORNING,Errand/Supplies,No,Business
+163,13-06-2016,12:31:00,Orlando,Fort Pierce,13-06-2016,14:03:00,92,29.1,320.1,AFTER-NOON,Meeting,No,Business
+164,03-04-2016,07:01:00,West Palm Beach,Kissimmee,03-04-2016,07:47:00,46,36.5,401.5,MORNING,Meeting,No,Personal
+165,21-03-2016,17:32:00,Miami,West Palm Beach,21-03-2016,19:09:00,97,59.8,657.8,EVENING,Airport/Travel,No,Business
+166,05-02-2016,07:49:00,Tampa,West Palm Beach,05-02-2016,08:42:00,53,40.2,442.2,MORNING,Meeting,No,Business
+167,15-02-2016,07:55:00,Tampa,Tampa,15-02-2016,09:04:00,69,22.9,251.9,MORNING,Meal/Entertain,Yes,Business
+168,13-04-2016,06:13:00,Fort Pierce,West Palm Beach,13-04-2016,07:17:00,64,29.6,325.6,MORNING,Meeting,No,Business
+169,02-05-2016,09:25:00,Palm Bay,Miami,02-05-2016,09:33:00,8,2.5,27.5,MORNING,Meeting,No,Business
+170,02-02-2016,07:30:00,Orlando,Orlando,02-02-2016,07:56:00,26,9.3,102.3,MORNING,Meal/Entertain,Yes,Business
+171,16-05-2016,17:46:00,Fort Pierce,Fort Pierce,16-05-2016,18:00:00,14,8.9,97.9,EVENING,Customer Visit,Yes,Business
+172,01-02-2016,13:35:00,Tampa,Orlando,01-02-2016,15:19:00,104,81.1,892.1,AFTER-NOON,Meal/Entertain,No,Business
+173,08-03-2016,07:11:00,Fort Pierce,Palm Bay,08-03-2016,08:31:00,80,62.8,690.8,MORNING,Meeting,No,Business
+174,05-06-2016,18:56:00,Palm Bay,Kissimmee,05-06-2016,19:24:00,28,11.4,125.4,EVENING,Customer Visit,No,Business
+175,08-05-2016,10:21:00,West Palm Beach,Kissimmee,08-05-2016,11:38:00,77,49.6,545.6,AFTER-NOON,Meeting,No,Personal
+176,24-06-2016,12:09:00,Kissimmee,West Palm Beach,24-06-2016,12:44:00,35,12.9,141.9,AFTER-NOON,Customer Visit,No,Personal
+177,06-03-2016,09:52:00,Kissimmee,Palm Bay,06-03-2016,11:36:00,104,57.9,636.9,MORNING,Customer Visit,No,Business
+178,11-02-2016,20:34:00,Kissimmee,Orlando,11-02-2016,21:33:00,59,29.3,322.3,NIGHT,Meeting,No,Personal
+179,29-04-2016,06:26:00,Tampa,Fort Pierce,29-04-2016,07:52:00,86,30.8,338.8,MORNING,Errand/Supplies,No,Business
+180,12-01-2016,12:32:00,Miami,West Palm Beach,12-01-2016,14:03:00,91,50.6,556.6,AFTER-NOON,Meeting,No,Business
+181,19-05-2016,12:20:00,Palm Bay,West Palm Beach,19-05-2016,12:54:00,34,26.9,295.9,AFTER-NOON,Airport/Travel,No,Personal
+182,30-03-2016,08:47:00,Palm Bay,Fort Pierce,30-03-2016,10:03:00,76,28.4,312.4,MORNING,Customer Visit,No,Business
+183,16-03-2016,15:16:00,Kissimmee,Tampa,16-03-2016,16:20:00,64,29.3,322.3,EVENING,Meal/Entertain,No,Business
+184,28-03-2016,19:22:00,Tampa,Kissimmee,28-03-2016,19:32:00,10,8,88,NIGHT,Airport/Travel,No,Business
+185,29-06-2016,17:42:00,Tampa,Kissimmee,29-06-2016,18:54:00,72,54.4,598.4,EVENING,Customer Visit,No,Business
+186,04-04-2016,12:33:00,Tampa,Kissimmee,04-04-2016,13:56:00,83,49.6,545.6,AFTER-NOON,Customer Visit,No,Business
+187,22-03-2016,07:15:00,Palm Bay,Tampa,22-03-2016,07:30:00,15,11.9,130.9,MORNING,Meeting,No,Business
+188,04-06-2016,16:36:00,Kissimmee,Kissimmee,04-06-2016,17:18:00,42,19,209,EVENING,Meal/Entertain,Yes,Business
+189,29-01-2016,07:08:00,West Palm Beach,Kissimmee,29-01-2016,08:31:00,83,48.4,532.4,MORNING,Meeting,No,Business
+190,01-01-2016,08:39:00,Palm Bay,Kissimmee,01-01-2016,10:28:00,109,83.6,919.6,MORNING,Meeting,No,Business
+191,04-06-2016,11:52:00,Tampa,West Palm Beach,04-06-2016,11:57:00,5,2.5,27.5,AFTER-NOON,Meal/Entertain,No,Business
+192,12-03-2016,11:15:00,Tampa,Palm Bay,12-03-2016,12:10:00,55,32.6,358.6,AFTER-NOON,Customer Visit,No,Business
+193,23-06-2016,20:22:00,Kissimmee,Tampa,23-06-2016,20:46:00,24,12.9,141.9,NIGHT,Meeting,No,Business
+194,17-05-2016,06:14:00,West Palm Beach,Orlando,17-05-2016,08:05:00,111,87.2,959.2,MORNING,Meeting,No,Business
+195,20-03-2016,20:47:00,West Palm Beach,Miami,20-03-2016,21:22:00,35,22.9,251.9,NIGHT,Customer Visit,No,Business
+196,21-03-2016,17:19:00,Palm Bay,Kissimmee,21-03-2016,17:53:00,34,20.5,225.5,EVENING,Customer Visit,No,Business
+197,09-02-2016,06:20:00,Tampa,Miami,09-02-2016,07:45:00,85,47.6,523.6,MORNING,Errand/Supplies,No,Business
+198,27-03-2016,13:38:00,Kissimmee,Tampa,27-03-2016,15:31:00,113,62.9,691.9,AFTER-NOON,Errand/Supplies,No,Business
+199,17-03-2016,10:14:00,Miami,Tampa,17-03-2016,11:46:00,92,64.7,711.7,AFTER-NOON,Airport/Travel,No,Personal
+200,15-06-2016,07:27:00,Miami,West Palm Beach,15-06-2016,08:36:00,69,31.5,346.5,MORNING,Customer Visit,No,Personal
+201,17-02-2016,16:04:00,Miami,Tampa,17-02-2016,16:16:00,12,3.7,40.7,EVENING,Meeting,No,Personal
+202,23-04-2016,06:46:00,Palm Bay,Tampa,23-04-2016,07:43:00,57,25.8,283.8,MORNING,Meeting,No,Business
+203,28-03-2016,17:41:00,Miami,Kissimmee,28-03-2016,18:00:00,19,8.8,96.8,EVENING,Errand/Supplies,No,Business
+204,30-03-2016,20:05:00,Kissimmee,Palm Bay,30-03-2016,21:28:00,83,47.8,525.8,NIGHT,Meeting,No,Personal
+205,22-01-2016,07:11:00,Orlando,Orlando,22-01-2016,07:16:00,5,2.6,28.6,MORNING,Meal/Entertain,Yes,Business
+206,03-03-2016,18:57:00,Miami,West Palm Beach,03-03-2016,20:50:00,113,82.1,903.1,EVENING,Meeting,No,Business
+207,25-03-2016,13:09:00,Kissimmee,Palm Bay,25-03-2016,14:39:00,90,32.5,357.5,AFTER-NOON,Meeting,No,Business
+208,04-04-2016,06:10:00,West Palm Beach,Kissimmee,04-04-2016,06:55:00,45,32.1,353.1,MORNING,Meal/Entertain,No,Business
+209,25-06-2016,19:19:00,West Palm Beach,Tampa,25-06-2016,20:28:00,69,32,352,NIGHT,Customer Visit,No,Business
+210,08-03-2016,20:52:00,Miami,Tampa,08-03-2016,22:39:00,107,83.4,917.4,NIGHT,Meal/Entertain,No,Business
+211,21-01-2016,12:37:00,Tampa,Palm Bay,21-01-2016,14:11:00,94,59.8,657.8,AFTER-NOON,Customer Visit,No,Personal
+212,30-05-2016,08:18:00,Orlando,Palm Bay,30-05-2016,10:10:00,112,72.8,800.8,MORNING,Meeting,No,Business
+213,22-02-2016,19:50:00,West Palm Beach,Tampa,22-02-2016,21:36:00,106,61.8,679.8,NIGHT,Meeting,No,Business
+214,05-02-2016,08:09:00,Kissimmee,Tampa,05-02-2016,08:17:00,8,4.4,48.4,MORNING,Meeting,No,Business
+215,25-05-2016,18:20:00,Orlando,Miami,25-05-2016,18:55:00,35,16.4,180.4,EVENING,Meal/Entertain,No,Business
+216,18-06-2016,07:29:00,Fort Pierce,Kissimmee,18-06-2016,08:09:00,40,26.6,292.6,MORNING,Meeting,No,Business
+217,01-04-2016,15:56:00,Palm Bay,Tampa,01-04-2016,17:16:00,80,36.7,403.7,EVENING,Meal/Entertain,No,Business
+218,10-02-2016,14:28:00,Palm Bay,West Palm Beach,10-02-2016,16:23:00,115,73.9,812.9,AFTER-NOON,Meeting,No,Business
+219,19-06-2016,08:21:00,Kissimmee,Orlando,19-06-2016,10:04:00,103,38,418,MORNING,Meeting,No,Personal
+220,17-01-2016,18:38:00,Kissimmee,Fort Pierce,17-01-2016,20:04:00,86,41.7,458.7,EVENING,Customer Visit,No,Business
+221,04-06-2016,15:53:00,West Palm Beach,Fort Pierce,04-06-2016,16:32:00,39,30.5,335.5,EVENING,Customer Visit,No,Business
+222,25-06-2016,07:15:00,Palm Bay,Kissimmee,25-06-2016,07:44:00,29,19.8,217.8,MORNING,Meeting,No,Business
+223,07-03-2016,15:27:00,Kissimmee,Miami,07-03-2016,16:03:00,36,26.4,290.4,EVENING,Meeting,No,Business
+224,07-05-2016,17:43:00,Fort Pierce,Miami,07-05-2016,19:26:00,103,60.1,661.1,EVENING,Meal/Entertain,No,Business
+225,12-01-2016,18:12:00,Palm Bay,Miami,12-01-2016,19:01:00,49,15.5,170.5,EVENING,Meeting,No,Business
+226,25-02-2016,14:34:00,Miami,Tampa,25-02-2016,16:32:00,118,39.5,434.5,AFTER-NOON,Customer Visit,No,Business
+227,17-01-2016,15:30:00,Palm Bay,Tampa,17-01-2016,15:47:00,17,6.1,67.1,EVENING,Customer Visit,No,Business
+228,15-06-2016,13:27:00,Kissimmee,Miami,15-06-2016,15:20:00,113,87.3,960.3,AFTER-NOON,Meal/Entertain,No,Business
+229,28-02-2016,15:00:00,Fort Pierce,Orlando,28-02-2016,15:06:00,6,3.1,34.1,EVENING,Airport/Travel,No,Business
+230,23-01-2016,17:14:00,Palm Bay,Kissimmee,23-01-2016,19:10:00,116,63.5,698.5,EVENING,Meeting,No,Personal
+231,20-04-2016,12:41:00,Kissimmee,Orlando,20-04-2016,13:16:00,35,27.4,301.4,AFTER-NOON,Airport/Travel,No,Business
+232,03-04-2016,16:49:00,Palm Bay,Miami,03-04-2016,18:18:00,89,40.7,447.7,EVENING,Meal/Entertain,No,Business
+233,27-04-2016,18:56:00,West Palm Beach,Palm Bay,27-04-2016,19:26:00,30,13.5,148.5,EVENING,Airport/Travel,No,Personal
+234,05-01-2016,13:23:00,Kissimmee,Palm Bay,05-01-2016,14:42:00,79,31.4,345.4,AFTER-NOON,Meeting,No,Business
+235,29-01-2016,16:17:00,Orlando,Fort Pierce,29-01-2016,17:38:00,81,52,572,EVENING,Airport/Travel,No,Business
+236,10-05-2016,19:51:00,Fort Pierce,Kissimmee,10-05-2016,20:01:00,10,5.4,59.4,NIGHT,Meal/Entertain,No,Business
+237,31-05-2016,11:43:00,Fort Pierce,Orlando,31-05-2016,13:37:00,114,44.4,488.4,AFTER-NOON,Meal/Entertain,No,Business
+238,20-03-2016,17:31:00,West Palm Beach,Miami,20-03-2016,18:42:00,71,35.7,392.7,EVENING,Airport/Travel,No,Personal
+239,11-05-2016,19:41:00,Tampa,West Palm Beach,11-05-2016,21:27:00,106,61.1,672.1,NIGHT,Meeting,No,Business
+240,14-01-2016,07:13:00,Miami,Tampa,14-01-2016,08:21:00,68,33.1,364.1,MORNING,Airport/Travel,No,Personal
+241,22-01-2016,18:26:00,Miami,Tampa,22-01-2016,20:20:00,114,34.2,376.2,EVENING,Meal/Entertain,No,Personal
+242,15-04-2016,06:49:00,Fort Pierce,Miami,15-04-2016,07:12:00,23,17.4,191.4,MORNING,Meeting,No,Business
+243,08-01-2016,10:40:00,Palm Bay,Kissimmee,08-01-2016,11:01:00,21,9.5,104.5,AFTER-NOON,Meeting,No,Business
+244,28-02-2016,11:05:00,Fort Pierce,Orlando,28-02-2016,11:52:00,47,18.5,203.5,AFTER-NOON,Meal/Entertain,No,Personal
+245,23-02-2016,10:27:00,Kissimmee,Miami,23-02-2016,11:02:00,35,26.5,291.5,AFTER-NOON,Errand/Supplies,No,Business
+246,24-06-2016,06:54:00,West Palm Beach,West Palm Beach,24-06-2016,08:10:00,76,43.9,482.9,MORNING,Meeting,Yes,Business
+247,11-03-2016,17:03:00,Orlando,Tampa,11-03-2016,18:38:00,95,61,671,EVENING,Meal/Entertain,No,Business
+248,04-04-2016,15:37:00,Miami,Palm Bay,04-04-2016,17:15:00,98,48.9,537.9,EVENING,Customer Visit,No,Business
+249,02-05-2016,20:43:00,Orlando,Miami,02-05-2016,22:37:00,114,87.2,959.2,NIGHT,Errand/Supplies,No,Business
+250,12-01-2016,18:43:00,West Palm Beach,Miami,12-01-2016,19:54:00,71,55.7,612.7,EVENING,Meal/Entertain,No,Business
+251,30-03-2016,06:34:00,Tampa,Kissimmee,30-03-2016,06:56:00,22,13.3,146.3,MORNING,Meeting,No,Personal
+252,12-05-2016,20:05:00,Tampa,Fort Pierce,12-05-2016,20:16:00,11,8.5,93.5,NIGHT,Meal/Entertain,No,Personal
+253,26-05-2016,06:13:00,West Palm Beach,West Palm Beach,26-05-2016,06:55:00,42,24,264,MORNING,Airport/Travel,Yes,Business
+254,26-02-2016,10:25:00,Palm Bay,West Palm Beach,26-02-2016,11:41:00,76,59,649,AFTER-NOON,Meeting,No,Business
+255,14-06-2016,18:37:00,Orlando,Tampa,14-06-2016,19:09:00,32,12.9,141.9,EVENING,Meeting,No,Business
+256,10-06-2016,11:29:00,Palm Bay,Palm Bay,10-06-2016,13:09:00,100,77,847,AFTER-NOON,Meal/Entertain,Yes,Business
+257,03-02-2016,18:06:00,Palm Bay,West Palm Beach,03-02-2016,19:13:00,67,24.1,265.1,EVENING,Meeting,No,Business
+258,10-02-2016,06:06:00,Palm Bay,Fort Pierce,10-02-2016,07:03:00,57,23,253,MORNING,Errand/Supplies,No,Business
+259,19-02-2016,12:26:00,Miami,Kissimmee,19-02-2016,13:40:00,74,54.2,596.2,AFTER-NOON,Meal/Entertain,No,Business
+260,31-01-2016,19:23:00,Fort Pierce,West Palm Beach,31-01-2016,20:34:00,71,31.5,346.5,NIGHT,Meal/Entertain,No,Business
+261,05-04-2016,12:25:00,Kissimmee,Kissimmee,05-04-2016,13:28:00,63,40,440,AFTER-NOON,Meal/Entertain,Yes,Business
+262,27-05-2016,16:40:00,Fort Pierce,Fort Pierce,27-05-2016,16:58:00,18,10.3,113.3,EVENING,Customer Visit,Yes,Business
+263,19-04-2016,20:03:00,West Palm Beach,Orlando,19-04-2016,20:24:00,21,9.5,104.5,NIGHT,Airport/Travel,No,Personal
+264,08-01-2016,09:04:00,Kissimmee,West Palm Beach,08-01-2016,10:13:00,69,53.6,589.6,MORNING,Errand/Supplies,No,Personal
+265,19-02-2016,16:57:00,Miami,Miami,19-02-2016,17:32:00,35,11.4,125.4,EVENING,Meal/Entertain,Yes,Business
+266,02-03-2016,08:50:00,Orlando,Orlando,02-03-2016,10:26:00,96,32.5,357.5,MORNING,Meeting,Yes,Business
+267,17-05-2016,13:40:00,Fort Pierce,Miami,17-05-2016,14:34:00,54,41.1,452.1,AFTER-NOON,Errand/Supplies,No,Personal
+268,18-03-2016,07:25:00,West Palm Beach,Kissimmee,18-03-2016,08:41:00,76,51.6,567.6,MORNING,Meal/Entertain,No,Business
+269,29-03-2016,08:17:00,West Palm Beach,Miami,29-03-2016,10:03:00,106,60,660,MORNING,Meeting,No,Personal
+270,04-03-2016,07:19:00,Miami,Fort Pierce,04-03-2016,08:25:00,66,34.7,381.7,MORNING,Meeting,No,Business
+271,31-03-2016,14:37:00,Palm Bay,Fort Pierce,31-03-2016,14:59:00,22,14.2,156.2,AFTER-NOON,Meeting,No,Business
+272,08-04-2016,18:16:00,Orlando,Miami,08-04-2016,19:55:00,99,39,429,EVENING,Errand/Supplies,No,Business
+273,22-03-2016,14:30:00,Miami,Miami,22-03-2016,15:19:00,49,32.9,361.9,AFTER-NOON,Meeting,Yes,Business
+274,04-03-2016,20:07:00,Palm Bay,Tampa,04-03-2016,20:51:00,44,29.9,328.9,NIGHT,Meal/Entertain,No,Business
+275,03-04-2016,08:13:00,Orlando,West Palm Beach,03-04-2016,09:32:00,79,33.9,372.9,MORNING,Customer Visit,No,Business
+276,24-01-2016,07:26:00,Fort Pierce,Palm Bay,24-01-2016,08:35:00,69,46.4,510.4,MORNING,Customer Visit,No,Business
+277,20-04-2016,08:28:00,Orlando,Miami,20-04-2016,09:22:00,54,43,473,MORNING,Customer Visit,No,Personal
+278,03-01-2016,09:53:00,Miami,West Palm Beach,03-01-2016,10:14:00,21,9.4,103.4,MORNING,Meal/Entertain,No,Business
+279,03-01-2016,14:29:00,Orlando,Fort Pierce,03-01-2016,16:15:00,106,71.7,788.7,AFTER-NOON,Meeting,No,Business
+280,23-06-2016,13:02:00,Orlando,Tampa,23-06-2016,14:01:00,59,25.1,276.1,AFTER-NOON,Meeting,No,Business
+281,14-01-2016,18:25:00,Palm Bay,Orlando,14-01-2016,18:37:00,12,6.5,71.5,EVENING,Meeting,No,Personal
+282,20-01-2016,10:53:00,Kissimmee,Fort Pierce,20-01-2016,12:31:00,98,47.5,522.5,AFTER-NOON,Meeting,No,Business
+283,19-03-2016,09:11:00,Fort Pierce,Tampa,19-03-2016,11:02:00,111,78.8,866.8,MORNING,Meal/Entertain,No,Business
+284,25-01-2016,12:42:00,Orlando,Fort Pierce,25-01-2016,14:25:00,103,58,638,AFTER-NOON,Meal/Entertain,No,Business
+285,07-03-2016,20:25:00,Miami,Kissimmee,07-03-2016,22:24:00,119,69.9,768.9,NIGHT,Errand/Supplies,No,Business
+286,22-05-2016,06:58:00,Orlando,West Palm Beach,22-05-2016,07:06:00,8,3.3,36.3,MORNING,Meeting,No,Business
+287,03-02-2016,08:47:00,West Palm Beach,Tampa,03-02-2016,10:30:00,103,78.6,864.6,MORNING,Errand/Supplies,No,Business
+288,28-03-2016,19:06:00,Orlando,Miami,28-03-2016,19:25:00,19,7.5,82.5,NIGHT,Customer Visit,No,Business
+289,07-04-2016,16:24:00,Orlando,Palm Bay,07-04-2016,18:20:00,116,65.3,718.3,EVENING,Meeting,No,Business
+290,07-05-2016,12:59:00,Palm Bay,West Palm Beach,07-05-2016,13:31:00,32,17.8,195.8,AFTER-NOON,Customer Visit,No,Business
+291,22-04-2016,13:14:00,Palm Bay,Fort Pierce,22-04-2016,15:02:00,108,62.6,688.6,AFTER-NOON,Airport/Travel,No,Business
+292,03-01-2016,15:53:00,Orlando,Orlando,03-01-2016,16:41:00,48,22.4,246.4,EVENING,Meal/Entertain,Yes,Business
+293,09-02-2016,17:30:00,Palm Bay,West Palm Beach,09-02-2016,18:00:00,30,13.5,148.5,EVENING,Meeting,No,Business
+294,19-03-2016,11:15:00,Palm Bay,Fort Pierce,19-03-2016,11:49:00,34,10.4,114.4,AFTER-NOON,Meeting,No,Personal
+295,17-04-2016,14:05:00,Tampa,West Palm Beach,17-04-2016,15:55:00,110,75.6,831.6,AFTER-NOON,Meeting,No,Business
+296,24-04-2016,10:44:00,Miami,West Palm Beach,24-04-2016,12:03:00,79,44.8,492.8,AFTER-NOON,Meeting,No,Business
+297,29-03-2016,06:33:00,Tampa,Miami,29-03-2016,07:01:00,28,12.5,137.5,MORNING,Meeting,No,Business
+298,18-02-2016,16:53:00,Miami,Kissimmee,18-02-2016,17:46:00,53,19.9,218.9,EVENING,Customer Visit,No,Business
+299,28-06-2016,18:36:00,Miami,Fort Pierce,28-06-2016,19:43:00,67,29.9,328.9,EVENING,Customer Visit,No,Business
+300,30-03-2016,12:57:00,Fort Pierce,Fort Pierce,30-03-2016,14:13:00,76,36.5,401.5,AFTER-NOON,Meal/Entertain,Yes,Business
+301,22-01-2016,11:37:00,West Palm Beach,Orlando,22-01-2016,12:22:00,45,28.7,315.7,AFTER-NOON,Meeting,No,Personal
+302,17-06-2016,09:41:00,Palm Bay,Orlando,17-06-2016,11:22:00,101,44,484,MORNING,Meeting,No,Business
+303,18-02-2016,18:14:00,Orlando,Fort Pierce,18-02-2016,18:37:00,23,14.9,163.9,EVENING,Meal/Entertain,No,Business
+304,04-06-2016,13:51:00,Kissimmee,West Palm Beach,04-06-2016,15:34:00,103,63.7,700.7,AFTER-NOON,Customer Visit,No,Personal
+305,25-01-2016,20:14:00,Orlando,Miami,25-01-2016,21:58:00,104,40.1,441.1,NIGHT,Errand/Supplies,No,Business
+306,29-01-2016,12:12:00,Miami,Palm Bay,29-01-2016,14:08:00,116,86.7,953.7,AFTER-NOON,Meal/Entertain,No,Business
+307,21-05-2016,20:22:00,Tampa,Kissimmee,21-05-2016,21:04:00,42,21.2,233.2,NIGHT,Meal/Entertain,No,Business
+308,15-06-2016,20:59:00,Tampa,Orlando,15-06-2016,21:40:00,41,20.1,221.1,NIGHT,Customer Visit,No,Business
+309,25-03-2016,18:18:00,Miami,Kissimmee,25-03-2016,18:50:00,32,23.9,262.9,EVENING,Errand/Supplies,No,Business
+310,20-05-2016,18:58:00,Kissimmee,Tampa,20-05-2016,19:49:00,51,30.7,337.7,EVENING,Meeting,No,Business
+311,27-04-2016,07:28:00,Palm Bay,Tampa,27-04-2016,08:14:00,46,16.6,182.6,MORNING,Meeting,No,Personal
+312,14-05-2016,06:54:00,Tampa,Orlando,14-05-2016,07:50:00,56,43.6,479.6,MORNING,Errand/Supplies,No,Business
+313,20-04-2016,14:58:00,Kissimmee,West Palm Beach,20-04-2016,15:21:00,23,8,88,AFTER-NOON,Customer Visit,No,Personal
+314,09-06-2016,20:29:00,West Palm Beach,Palm Bay,09-06-2016,22:17:00,108,44.7,491.7,NIGHT,Customer Visit,No,Business
+315,11-04-2016,16:03:00,Palm Bay,Miami,11-04-2016,17:12:00,69,34.5,379.5,EVENING,Customer Visit,No,Business
+316,28-03-2016,16:46:00,Miami,Miami,28-03-2016,18:10:00,84,49.7,546.7,EVENING,Meeting,Yes,Personal
+317,06-01-2016,16:21:00,Miami,Tampa,06-01-2016,17:57:00,96,63.9,702.9,EVENING,Meeting,No,Business
+318,28-01-2016,15:24:00,Orlando,Tampa,28-01-2016,15:49:00,25,14.6,160.6,EVENING,Meeting,No,Business
+319,08-04-2016,09:53:00,West Palm Beach,Miami,08-04-2016,11:36:00,103,81.7,898.7,MORNING,Customer Visit,No,Business
+320,14-03-2016,11:54:00,Fort Pierce,Kissimmee,14-03-2016,13:00:00,66,49,539,AFTER-NOON,Customer Visit,No,Business
+321,13-01-2016,18:02:00,Kissimmee,Orlando,13-01-2016,18:29:00,27,21,231,EVENING,Customer Visit,No,Business
+322,26-01-2016,12:03:00,Palm Bay,Orlando,26-01-2016,12:27:00,24,7.3,80.3,AFTER-NOON,Meeting,No,Business
+323,26-01-2016,13:24:00,Fort Pierce,Miami,26-01-2016,14:22:00,58,39.9,438.9,AFTER-NOON,Meeting,No,Business
+324,06-04-2016,18:56:00,Miami,Tampa,06-04-2016,19:07:00,11,7.7,84.7,EVENING,Meeting,No,Personal
+325,09-02-2016,18:11:00,Miami,Orlando,09-02-2016,18:31:00,20,9.1,100.1,EVENING,Errand/Supplies,No,Business
+326,06-03-2016,18:39:00,Fort Pierce,West Palm Beach,06-03-2016,20:31:00,112,75.3,828.3,EVENING,Meal/Entertain,No,Business
+327,26-03-2016,19:42:00,Palm Bay,Kissimmee,26-03-2016,20:13:00,31,12.3,135.3,NIGHT,Errand/Supplies,No,Business
+328,08-05-2016,19:35:00,Kissimmee,Palm Bay,08-05-2016,19:47:00,12,9.6,105.6,NIGHT,Meal/Entertain,No,Business
+329,12-01-2016,09:25:00,Palm Bay,Tampa,12-01-2016,10:10:00,45,15.6,171.6,MORNING,Meeting,No,Business
+330,12-01-2016,18:21:00,West Palm Beach,West Palm Beach,12-01-2016,18:59:00,38,18.9,207.9,EVENING,Meal/Entertain,Yes,Business
+331,30-05-2016,10:07:00,Fort Pierce,Miami,30-05-2016,11:06:00,59,45.8,503.8,AFTER-NOON,Errand/Supplies,No,Business
+332,23-06-2016,17:23:00,Miami,Kissimmee,23-06-2016,17:58:00,35,21.1,232.1,EVENING,Meal/Entertain,No,Personal
+333,12-01-2016,19:11:00,Orlando,Palm Bay,12-01-2016,20:17:00,66,37.6,413.6,NIGHT,Meeting,No,Business
+334,30-03-2016,18:45:00,Palm Bay,Tampa,30-03-2016,19:48:00,63,29.4,323.4,EVENING,Meal/Entertain,No,Business
+335,01-03-2016,17:10:00,Orlando,Kissimmee,01-03-2016,18:50:00,100,33.9,372.9,EVENING,Airport/Travel,No,Business
+336,03-05-2016,09:47:00,Palm Bay,Orlando,03-05-2016,10:31:00,44,22.1,243.1,MORNING,Meal/Entertain,No,Business
+337,13-05-2016,14:11:00,Orlando,Tampa,13-05-2016,15:05:00,54,35.8,393.8,AFTER-NOON,Airport/Travel,No,Business
+338,25-04-2016,09:36:00,Tampa,Miami,25-04-2016,10:33:00,57,43.5,478.5,MORNING,Meeting,No,Business
+339,09-04-2016,06:13:00,Palm Bay,West Palm Beach,09-04-2016,07:53:00,100,42.1,463.1,MORNING,Errand/Supplies,No,Personal
+340,10-04-2016,15:15:00,Fort Pierce,Tampa,10-04-2016,16:17:00,62,26.7,293.7,EVENING,Airport/Travel,No,Business
+341,13-06-2016,13:17:00,Miami,West Palm Beach,13-06-2016,15:08:00,111,72.7,799.7,AFTER-NOON,Meeting,No,Business
+342,24-06-2016,09:58:00,Palm Bay,Tampa,24-06-2016,11:45:00,107,54.2,596.2,MORNING,Customer Visit,No,Business
+343,20-06-2016,09:35:00,Palm Bay,Palm Bay,20-06-2016,10:50:00,75,27.5,302.5,MORNING,Meeting,Yes,Business
+344,07-02-2016,16:50:00,Fort Pierce,West Palm Beach,07-02-2016,18:20:00,90,43.4,477.4,EVENING,Meal/Entertain,No,Business
+345,02-05-2016,09:55:00,Miami,Kissimmee,02-05-2016,10:24:00,29,19.2,211.2,MORNING,Customer Visit,No,Business
+346,11-04-2016,18:41:00,Fort Pierce,Kissimmee,11-04-2016,19:28:00,47,30.3,333.3,EVENING,Meal/Entertain,No,Business
+347,03-05-2016,19:51:00,Kissimmee,West Palm Beach,03-05-2016,21:11:00,80,45.7,502.7,NIGHT,Meeting,No,Business
+348,29-02-2016,16:51:00,West Palm Beach,Tampa,29-02-2016,18:34:00,103,33.7,370.7,EVENING,Meeting,No,Business
+349,14-03-2016,12:25:00,Fort Pierce,Fort Pierce,14-03-2016,13:20:00,55,33.9,372.9,AFTER-NOON,Meal/Entertain,Yes,Business
+350,15-01-2016,09:34:00,Tampa,Miami,15-01-2016,10:07:00,33,15.7,172.7,MORNING,Errand/Supplies,No,Business
+351,31-03-2016,10:38:00,Tampa,Fort Pierce,31-03-2016,12:22:00,104,39.1,430.1,AFTER-NOON,Customer Visit,No,Business
+352,27-02-2016,07:18:00,Palm Bay,Kissimmee,27-02-2016,08:26:00,68,43.5,478.5,MORNING,Errand/Supplies,No,Business
+353,23-06-2016,20:49:00,Orlando,Kissimmee,23-06-2016,22:33:00,104,46.3,509.3,NIGHT,Errand/Supplies,No,Personal
+354,20-04-2016,15:59:00,West Palm Beach,Kissimmee,20-04-2016,17:19:00,80,25.1,276.1,EVENING,Meal/Entertain,No,Business
+355,27-06-2016,17:23:00,Miami,Miami,27-06-2016,17:29:00,6,4.1,45.1,EVENING,Meal/Entertain,Yes,Personal
+356,13-01-2016,12:07:00,Fort Pierce,Tampa,13-01-2016,13:30:00,83,47,517,AFTER-NOON,Meal/Entertain,No,Business
+357,13-01-2016,12:52:00,Kissimmee,Miami,13-01-2016,14:30:00,98,75.8,833.8,AFTER-NOON,Customer Visit,No,Personal
+358,14-01-2016,18:31:00,Kissimmee,Orlando,14-01-2016,20:19:00,108,37.5,412.5,EVENING,Customer Visit,No,Business
+359,04-02-2016,10:52:00,Palm Bay,Miami,04-02-2016,12:40:00,108,75.8,833.8,AFTER-NOON,Meeting,No,Personal
+360,14-03-2016,07:33:00,Orlando,Kissimmee,14-03-2016,07:43:00,10,7,77,MORNING,Meeting,No,Business
+361,04-02-2016,20:07:00,Orlando,Miami,04-02-2016,21:47:00,100,52.9,581.9,NIGHT,Meeting,No,Business
+362,18-06-2016,19:24:00,Orlando,Fort Pierce,18-06-2016,20:49:00,85,52.9,581.9,NIGHT,Airport/Travel,No,Business
+363,02-03-2016,17:41:00,Fort Pierce,Tampa,02-03-2016,18:38:00,57,34.2,376.2,EVENING,Meal/Entertain,No,Business
+364,15-04-2016,16:45:00,Tampa,West Palm Beach,15-04-2016,17:48:00,63,33.2,365.2,EVENING,Meeting,No,Business
+365,21-05-2016,18:56:00,West Palm Beach,Tampa,21-05-2016,20:13:00,77,53.4,587.4,EVENING,Meeting,No,Business
+366,15-05-2016,18:41:00,West Palm Beach,Tampa,15-05-2016,20:38:00,117,77.4,851.4,EVENING,Meeting,No,Personal
+367,25-05-2016,14:31:00,Orlando,Tampa,25-05-2016,16:27:00,116,66.5,731.5,AFTER-NOON,Customer Visit,No,Personal
+368,29-05-2016,14:17:00,Miami,Miami,29-05-2016,15:04:00,47,30.5,335.5,AFTER-NOON,Meeting,Yes,Personal
+369,10-06-2016,10:01:00,Orlando,Orlando,10-06-2016,11:50:00,109,37.8,415.8,AFTER-NOON,Meal/Entertain,Yes,Personal
+370,12-03-2016,07:19:00,Kissimmee,Kissimmee,12-03-2016,08:20:00,61,35.5,390.5,MORNING,Meeting,Yes,Business
+371,03-03-2016,09:07:00,Fort Pierce,Palm Bay,03-03-2016,09:59:00,52,20.9,229.9,MORNING,Meeting,No,Business
+372,12-05-2016,10:11:00,Miami,West Palm Beach,12-05-2016,10:52:00,41,29,319,AFTER-NOON,Airport/Travel,No,Business
+373,27-06-2016,08:04:00,Kissimmee,Orlando,27-06-2016,08:19:00,15,6,66,MORNING,Meeting,No,Personal
+374,22-06-2016,06:33:00,Fort Pierce,Kissimmee,22-06-2016,07:35:00,62,33.5,368.5,MORNING,Meal/Entertain,No,Business
+375,26-04-2016,12:13:00,Palm Bay,Miami,26-04-2016,13:32:00,79,59.4,653.4,AFTER-NOON,Meeting,No,Business
+376,20-05-2016,17:56:00,Kissimmee,Tampa,20-05-2016,18:22:00,26,15.1,166.1,EVENING,Errand/Supplies,No,Business
+377,04-01-2016,11:58:00,Tampa,Miami,04-01-2016,13:49:00,111,69.6,765.6,AFTER-NOON,Errand/Supplies,No,Personal
+378,19-06-2016,16:38:00,Kissimmee,Tampa,19-06-2016,17:35:00,57,30.4,334.4,EVENING,Meal/Entertain,No,Business
+379,08-04-2016,20:01:00,Tampa,Fort Pierce,08-04-2016,20:21:00,20,6.4,70.4,NIGHT,Meeting,No,Business
+380,29-05-2016,15:26:00,West Palm Beach,Palm Bay,29-05-2016,16:29:00,63,31.9,350.9,EVENING,Meal/Entertain,No,Business
+381,19-02-2016,06:31:00,West Palm Beach,Fort Pierce,19-02-2016,07:53:00,82,48,528,MORNING,Meeting,No,Personal
+382,13-05-2016,13:13:00,Fort Pierce,Palm Bay,13-05-2016,13:34:00,21,12.5,137.5,AFTER-NOON,Airport/Travel,No,Personal
+383,14-05-2016,08:20:00,Fort Pierce,Miami,14-05-2016,10:13:00,113,66.3,729.3,MORNING,Meeting,No,Personal
+384,05-05-2016,09:52:00,Palm Bay,West Palm Beach,05-05-2016,11:52:00,120,62.7,689.7,MORNING,Meeting,No,Business
+385,14-06-2016,17:09:00,Tampa,Fort Pierce,14-06-2016,18:00:00,51,29.8,327.8,EVENING,Meal/Entertain,No,Business
+386,27-04-2016,20:19:00,West Palm Beach,Palm Bay,27-04-2016,21:22:00,63,23.7,260.7,NIGHT,Meeting,No,Business
+387,17-02-2016,08:42:00,Palm Bay,Miami,17-02-2016,08:52:00,10,5,55,MORNING,Meeting,No,Business
+388,19-06-2016,17:51:00,Miami,West Palm Beach,19-06-2016,18:18:00,27,13.2,145.2,EVENING,Meal/Entertain,No,Business
+389,21-03-2016,11:51:00,Kissimmee,Miami,21-03-2016,13:23:00,92,60.7,667.7,AFTER-NOON,Meal/Entertain,No,Business
+390,16-01-2016,17:21:00,West Palm Beach,Orlando,16-01-2016,18:56:00,95,41.2,453.2,EVENING,Airport/Travel,No,Business
+391,22-03-2016,06:35:00,Kissimmee,Orlando,22-03-2016,08:30:00,115,81.6,897.6,MORNING,Meal/Entertain,No,Business
+392,12-03-2016,08:49:00,West Palm Beach,Orlando,12-03-2016,09:49:00,60,30.5,335.5,MORNING,Customer Visit,No,Personal
+393,27-03-2016,14:03:00,Miami,Tampa,27-03-2016,15:31:00,88,52.2,574.2,AFTER-NOON,Errand/Supplies,No,Business
+394,25-03-2016,15:38:00,Fort Pierce,Kissimmee,25-03-2016,16:15:00,37,18.2,200.2,EVENING,Customer Visit,No,Personal
+395,29-06-2016,07:06:00,West Palm Beach,West Palm Beach,29-06-2016,07:47:00,41,15.4,169.4,MORNING,Errand/Supplies,Yes,Business
+396,25-01-2016,17:36:00,Miami,Tampa,25-01-2016,19:23:00,107,48.6,534.6,EVENING,Customer Visit,No,Business
+397,05-04-2016,11:30:00,Orlando,Palm Bay,05-04-2016,12:32:00,62,42.8,470.8,AFTER-NOON,Errand/Supplies,No,Business
+398,04-01-2016,17:43:00,Palm Bay,Tampa,04-01-2016,18:02:00,19,6.9,75.9,EVENING,Meal/Entertain,No,Personal
+399,09-05-2016,16:58:00,West Palm Beach,Kissimmee,09-05-2016,18:42:00,104,62.5,687.5,EVENING,Airport/Travel,No,Business
+400,26-02-2016,11:12:00,Fort Pierce,Miami,26-02-2016,12:01:00,49,22.8,250.8,AFTER-NOON,Meeting,No,Business
+401,05-01-2016,09:57:00,Palm Bay,Orlando,05-01-2016,10:41:00,44,23.9,262.9,MORNING,Meal/Entertain,No,Business
+402,20-02-2016,15:27:00,Palm Bay,Fort Pierce,20-02-2016,16:27:00,60,43,473,EVENING,Meal/Entertain,No,Personal
+403,27-05-2016,10:22:00,Fort Pierce,Miami,27-05-2016,10:52:00,30,17.3,190.3,AFTER-NOON,Customer Visit,No,Personal
+404,20-02-2016,08:07:00,Miami,Miami,20-02-2016,08:56:00,49,24.4,268.4,MORNING,Meeting,Yes,Business
+405,25-06-2016,17:27:00,Miami,Tampa,25-06-2016,17:54:00,27,9.1,100.1,EVENING,Customer Visit,No,Business
+406,19-04-2016,08:30:00,West Palm Beach,Kissimmee,19-04-2016,09:18:00,48,15.8,173.8,MORNING,Customer Visit,No,Business
+407,15-06-2016,11:31:00,Miami,Miami,15-06-2016,12:19:00,48,15.8,173.8,AFTER-NOON,Meeting,Yes,Business
+408,18-04-2016,19:39:00,Palm Bay,Miami,18-04-2016,20:09:00,30,10.4,114.4,NIGHT,Meeting,No,Business
+409,15-06-2016,20:27:00,Kissimmee,Palm Bay,15-06-2016,22:20:00,113,64.2,706.2,NIGHT,Customer Visit,No,Business
+410,03-04-2016,12:26:00,Tampa,Tampa,03-04-2016,13:48:00,82,51.6,567.6,AFTER-NOON,Meal/Entertain,Yes,Business
+411,06-04-2016,16:44:00,Tampa,Fort Pierce,06-04-2016,17:57:00,73,34.6,380.6,EVENING,Meeting,No,Personal
+412,24-06-2016,15:08:00,Palm Bay,Palm Bay,24-06-2016,16:15:00,67,39,429,EVENING,Meeting,Yes,Personal
+413,26-01-2016,06:10:00,Fort Pierce,Orlando,26-01-2016,07:27:00,77,54,594,MORNING,Errand/Supplies,No,Business
+414,17-05-2016,19:09:00,Tampa,Miami,17-05-2016,19:55:00,46,16.8,184.8,NIGHT,Customer Visit,No,Business
+415,12-01-2016,09:40:00,Tampa,Tampa,12-01-2016,11:03:00,83,44.1,485.1,MORNING,Airport/Travel,Yes,Business
+416,01-02-2016,14:55:00,Kissimmee,Miami,01-02-2016,16:07:00,72,27.8,305.8,AFTER-NOON,Meeting,No,Business
+417,05-02-2016,14:07:00,West Palm Beach,Kissimmee,05-02-2016,14:21:00,14,9.2,101.2,AFTER-NOON,Customer Visit,No,Business
+418,07-01-2016,20:56:00,Kissimmee,Tampa,07-01-2016,22:01:00,65,43.9,482.9,NIGHT,Meeting,No,Business
+419,16-06-2016,14:10:00,Palm Bay,Tampa,16-06-2016,14:50:00,40,21.6,237.6,AFTER-NOON,Meeting,No,Business
+420,05-03-2016,09:12:00,West Palm Beach,West Palm Beach,05-03-2016,10:27:00,75,31.8,349.8,MORNING,Customer Visit,Yes,Business
+421,24-04-2016,08:41:00,Palm Bay,Tampa,24-04-2016,10:12:00,91,56.3,619.3,MORNING,Errand/Supplies,No,Personal
+422,01-03-2016,15:40:00,Fort Pierce,Miami,01-03-2016,17:08:00,88,44.9,493.9,EVENING,Meeting,No,Business
+423,04-05-2016,09:08:00,Kissimmee,West Palm Beach,04-05-2016,10:39:00,91,70.1,771.1,MORNING,Meal/Entertain,No,Business
+424,11-03-2016,14:31:00,Palm Bay,Palm Bay,11-03-2016,14:38:00,7,4.6,50.6,AFTER-NOON,Meal/Entertain,Yes,Business
+425,12-05-2016,08:31:00,Palm Bay,Miami,12-05-2016,09:12:00,41,14.9,163.9,MORNING,Customer Visit,No,Personal
+426,12-06-2016,09:25:00,Miami,Miami,12-06-2016,09:47:00,22,17.4,191.4,MORNING,Meeting,Yes,Business
+427,08-01-2016,06:26:00,Palm Bay,Fort Pierce,08-01-2016,07:11:00,45,28.8,316.8,MORNING,Errand/Supplies,No,Business
+428,08-02-2016,09:13:00,Miami,West Palm Beach,08-02-2016,10:59:00,106,60.9,669.9,MORNING,Errand/Supplies,No,Personal
+429,28-05-2016,08:43:00,Tampa,Orlando,28-05-2016,09:56:00,73,50.2,552.2,MORNING,Errand/Supplies,No,Business
+430,23-04-2016,16:26:00,West Palm Beach,Kissimmee,23-04-2016,17:43:00,77,55.7,612.7,EVENING,Customer Visit,No,Business
+431,10-02-2016,07:16:00,Miami,West Palm Beach,10-02-2016,08:56:00,100,42.7,469.7,MORNING,Meal/Entertain,No,Business
+432,22-02-2016,12:19:00,Miami,Orlando,22-02-2016,13:25:00,66,49.5,544.5,AFTER-NOON,Errand/Supplies,No,Personal
+433,08-05-2016,09:37:00,Palm Bay,Miami,08-05-2016,10:53:00,76,48.3,531.3,MORNING,Customer Visit,No,Business
+434,14-06-2016,18:17:00,Tampa,Miami,14-06-2016,20:04:00,107,46.3,509.3,EVENING,Customer Visit,No,Business
+435,23-05-2016,11:45:00,Palm Bay,Miami,23-05-2016,13:22:00,97,60.1,661.1,AFTER-NOON,Customer Visit,No,Business
+436,18-02-2016,14:07:00,West Palm Beach,Orlando,18-02-2016,14:42:00,35,12.4,136.4,AFTER-NOON,Airport/Travel,No,Business
+437,21-05-2016,13:00:00,West Palm Beach,Orlando,21-05-2016,13:32:00,32,20.3,223.3,AFTER-NOON,Meeting,No,Business
+438,04-03-2016,16:53:00,Orlando,Orlando,04-03-2016,17:59:00,66,34,374,EVENING,Meeting,Yes,Business
+439,12-04-2016,09:28:00,West Palm Beach,West Palm Beach,12-04-2016,10:55:00,87,32.6,358.6,MORNING,Customer Visit,Yes,Personal
+440,09-01-2016,16:29:00,Orlando,Orlando,09-01-2016,17:59:00,90,46.8,514.8,EVENING,Errand/Supplies,Yes,Business
+441,12-04-2016,13:57:00,Tampa,Tampa,12-04-2016,14:14:00,17,10.9,119.9,AFTER-NOON,Errand/Supplies,Yes,Business
+442,25-02-2016,10:35:00,Fort Pierce,Kissimmee,25-02-2016,10:42:00,7,3.7,40.7,AFTER-NOON,Meeting,No,Business
+443,13-04-2016,15:54:00,Tampa,Kissimmee,13-04-2016,16:19:00,25,19.1,210.1,EVENING,Meal/Entertain,No,Business
+444,03-06-2016,14:36:00,Tampa,Fort Pierce,03-06-2016,15:18:00,42,15.5,170.5,AFTER-NOON,Customer Visit,No,Personal
+445,04-03-2016,08:32:00,Miami,Tampa,04-03-2016,09:54:00,82,61.5,676.5,MORNING,Meeting,No,Business
+446,26-03-2016,09:33:00,West Palm Beach,Tampa,26-03-2016,10:27:00,54,31.1,342.1,MORNING,Meeting,No,Personal
+447,23-05-2016,06:37:00,Tampa,Orlando,23-05-2016,08:02:00,85,30.6,336.6,MORNING,Meal/Entertain,No,Personal
+448,12-06-2016,14:34:00,Orlando,Orlando,12-06-2016,15:03:00,29,18.4,202.4,AFTER-NOON,Airport/Travel,Yes,Personal
+449,05-04-2016,18:47:00,Palm Bay,Miami,05-04-2016,20:00:00,73,33,363,EVENING,Customer Visit,No,Personal
+450,11-05-2016,18:51:00,Orlando,Miami,11-05-2016,19:43:00,52,34.2,376.2,EVENING,Airport/Travel,No,Personal
+451,04-01-2016,14:18:00,West Palm Beach,Miami,04-01-2016,15:27:00,69,48.8,536.8,AFTER-NOON,Meal/Entertain,No,Business
+452,13-03-2016,19:52:00,Tampa,Fort Pierce,13-03-2016,21:51:00,119,73.1,804.1,NIGHT,Meeting,No,Personal
+453,07-04-2016,13:08:00,Kissimmee,West Palm Beach,07-04-2016,14:54:00,106,62.9,691.9,AFTER-NOON,Meal/Entertain,No,Business
+454,12-02-2016,15:23:00,Fort Pierce,Orlando,12-02-2016,15:35:00,12,4.6,50.6,EVENING,Meeting,No,Business
+455,13-04-2016,10:45:00,Fort Pierce,West Palm Beach,13-04-2016,12:37:00,112,47.7,524.7,AFTER-NOON,Meal/Entertain,No,Business
+456,17-01-2016,13:48:00,West Palm Beach,West Palm Beach,17-01-2016,14:21:00,33,26.2,288.2,AFTER-NOON,Customer Visit,Yes,Business
+457,06-04-2016,20:21:00,Kissimmee,Miami,06-04-2016,20:37:00,16,11.1,122.1,NIGHT,Meal/Entertain,No,Business
+458,17-03-2016,13:17:00,Palm Bay,Palm Bay,17-03-2016,13:42:00,25,11.4,125.4,AFTER-NOON,Errand/Supplies,Yes,Personal
+459,26-05-2016,11:55:00,Kissimmee,Tampa,26-05-2016,12:15:00,20,10.5,115.5,AFTER-NOON,Airport/Travel,No,Business
+460,13-02-2016,10:21:00,Kissimmee,Tampa,13-02-2016,11:51:00,90,45.4,499.4,AFTER-NOON,Customer Visit,No,Personal
+461,06-06-2016,09:59:00,Palm Bay,Miami,06-06-2016,10:40:00,41,18.6,204.6,MORNING,Meal/Entertain,No,Business
+462,27-05-2016,20:41:00,Miami,Tampa,27-05-2016,22:00:00,79,36.1,397.1,NIGHT,Customer Visit,No,Business
+463,05-02-2016,06:07:00,Miami,Tampa,05-02-2016,06:23:00,16,5.2,57.2,MORNING,Meeting,No,Business
+464,08-01-2016,14:40:00,Tampa,Tampa,08-01-2016,16:18:00,98,54.7,601.7,AFTER-NOON,Errand/Supplies,Yes,Business
+465,11-03-2016,12:56:00,Miami,Orlando,11-03-2016,13:18:00,22,16.6,182.6,AFTER-NOON,Meeting,No,Business
+466,02-05-2016,16:53:00,Orlando,Miami,02-05-2016,18:03:00,70,47.2,519.2,EVENING,Meeting,No,Business
+467,02-02-2016,18:41:00,Kissimmee,West Palm Beach,02-02-2016,20:12:00,91,38.3,421.3,EVENING,Customer Visit,No,Personal
+468,28-06-2016,08:10:00,Palm Bay,Miami,28-06-2016,09:39:00,89,52.5,577.5,MORNING,Customer Visit,No,Business
+469,15-03-2016,19:59:00,Palm Bay,Palm Bay,15-03-2016,21:14:00,75,52.3,575.3,NIGHT,Meeting,Yes,Business
+470,03-05-2016,11:09:00,Orlando,Miami,03-05-2016,12:00:00,51,34.7,381.7,AFTER-NOON,Meal/Entertain,No,Business
+471,12-04-2016,18:35:00,Palm Bay,Palm Bay,12-04-2016,19:22:00,47,20,220,EVENING,Meeting,Yes,Business
+472,24-03-2016,19:34:00,Miami,Tampa,24-03-2016,20:55:00,81,55.8,613.8,NIGHT,Errand/Supplies,No,Business
+473,26-05-2016,13:58:00,Fort Pierce,Orlando,26-05-2016,14:49:00,51,34.2,376.2,AFTER-NOON,Meeting,No,Business
+474,11-02-2016,12:57:00,Palm Bay,Miami,11-02-2016,13:59:00,62,42.2,464.2,AFTER-NOON,Meal/Entertain,No,Business
+475,26-06-2016,11:37:00,Orlando,Kissimmee,26-06-2016,13:08:00,91,69.1,760.1,AFTER-NOON,Errand/Supplies,No,Personal
+476,26-01-2016,14:31:00,West Palm Beach,West Palm Beach,26-01-2016,16:21:00,110,36.6,402.6,AFTER-NOON,Customer Visit,Yes,Personal
+477,18-02-2016,09:01:00,Tampa,West Palm Beach,18-02-2016,09:37:00,36,21.9,240.9,MORNING,Customer Visit,No,Personal
+478,29-02-2016,08:21:00,Fort Pierce,Miami,29-02-2016,09:21:00,60,36.5,401.5,MORNING,Meeting,No,Personal
+479,06-06-2016,17:02:00,Fort Pierce,Orlando,06-06-2016,17:32:00,30,20.1,221.1,EVENING,Errand/Supplies,No,Business
+480,24-06-2016,18:26:00,Kissimmee,Palm Bay,24-06-2016,19:31:00,65,21.7,238.7,EVENING,Meeting,No,Personal
+481,22-03-2016,06:18:00,Kissimmee,Miami,22-03-2016,07:35:00,77,31.2,343.2,MORNING,Meal/Entertain,No,Business
+482,09-05-2016,16:57:00,Orlando,West Palm Beach,09-05-2016,17:44:00,47,18.1,199.1,EVENING,Meeting,No,Business
+483,16-03-2016,07:47:00,Miami,Kissimmee,16-03-2016,08:48:00,61,48.3,531.3,MORNING,Meal/Entertain,No,Business
+484,19-05-2016,10:17:00,Miami,Miami,19-05-2016,11:19:00,62,33.4,367.4,AFTER-NOON,Customer Visit,Yes,Business
+485,15-02-2016,17:03:00,Palm Bay,Palm Bay,15-02-2016,17:55:00,52,36.5,401.5,EVENING,Meal/Entertain,Yes,Business
+486,29-02-2016,08:12:00,Kissimmee,Palm Bay,29-02-2016,08:21:00,9,5.4,59.4,MORNING,Customer Visit,No,Business
+487,04-03-2016,20:14:00,Miami,Fort Pierce,04-03-2016,20:45:00,31,24.2,266.2,NIGHT,Meeting,No,Business
+488,07-01-2016,12:57:00,West Palm Beach,Kissimmee,07-01-2016,14:18:00,81,42.1,463.1,AFTER-NOON,Meeting,No,Business
+489,10-02-2016,20:30:00,Fort Pierce,Tampa,10-02-2016,21:42:00,72,24.1,265.1,NIGHT,Meal/Entertain,No,Business
+490,28-04-2016,17:27:00,Miami,Palm Bay,28-04-2016,17:55:00,28,8.5,93.5,EVENING,Airport/Travel,No,Business
+491,26-05-2016,18:13:00,Orlando,Kissimmee,26-05-2016,18:43:00,30,15.6,171.6,EVENING,Meeting,No,Personal
+492,13-05-2016,12:05:00,Miami,Kissimmee,13-05-2016,13:27:00,82,33.2,365.2,AFTER-NOON,Meal/Entertain,No,Personal
+493,27-01-2016,20:13:00,Fort Pierce,Fort Pierce,27-01-2016,20:31:00,18,11.1,122.1,NIGHT,Meeting,Yes,Business
+494,20-03-2016,15:42:00,Palm Bay,Tampa,20-03-2016,16:53:00,71,23,253,EVENING,Customer Visit,No,Business
+495,19-02-2016,18:05:00,Palm Bay,Miami,19-02-2016,18:53:00,48,29.2,321.2,EVENING,Customer Visit,No,Business
+496,13-03-2016,14:00:00,Palm Bay,West Palm Beach,13-03-2016,14:24:00,24,7.3,80.3,AFTER-NOON,Meeting,No,Business
+497,06-03-2016,08:56:00,West Palm Beach,Kissimmee,06-03-2016,10:42:00,106,80,880,MORNING,Errand/Supplies,No,Personal
+498,24-05-2016,20:18:00,Kissimmee,Palm Bay,24-05-2016,21:56:00,98,32.8,360.8,NIGHT,Meeting,No,Business
+499,20-01-2016,08:22:00,West Palm Beach,Kissimmee,20-01-2016,10:00:00,98,55.3,608.3,MORNING,Meeting,No,Business
+500,17-05-2016,16:21:00,West Palm Beach,Fort Pierce,17-05-2016,17:26:00,65,20.6,226.6,EVENING,Errand/Supplies,No,Business
+501,28-03-2016,14:45:00,West Palm Beach,Orlando,28-03-2016,16:05:00,80,32.8,360.8,AFTER-NOON,Customer Visit,No,Business
+502,25-02-2016,18:22:00,West Palm Beach,Orlando,25-02-2016,18:44:00,22,14.8,162.8,EVENING,Errand/Supplies,No,Business
+503,19-03-2016,15:44:00,West Palm Beach,West Palm Beach,19-03-2016,16:06:00,22,17.2,189.2,EVENING,Meal/Entertain,Yes,Business
+504,15-04-2016,16:21:00,West Palm Beach,Miami,15-04-2016,17:53:00,92,28.5,313.5,EVENING,Meeting,No,Personal
+505,09-05-2016,12:51:00,Palm Bay,West Palm Beach,09-05-2016,13:09:00,18,6.7,73.7,AFTER-NOON,Meeting,No,Personal
+506,24-04-2016,19:52:00,Kissimmee,Orlando,24-04-2016,21:18:00,86,54.2,596.2,NIGHT,Meeting,No,Personal
+507,26-04-2016,20:02:00,Tampa,Miami,26-04-2016,20:16:00,14,4.3,47.3,NIGHT,Airport/Travel,No,Business
+508,16-05-2016,16:19:00,Orlando,Tampa,16-05-2016,17:55:00,96,64.3,707.3,EVENING,Meal/Entertain,No,Business
+509,02-01-2016,17:47:00,Fort Pierce,Kissimmee,02-01-2016,19:43:00,116,48.7,535.7,EVENING,Customer Visit,No,Business
+510,14-04-2016,14:42:00,Miami,Fort Pierce,14-04-2016,16:36:00,114,64.6,710.6,AFTER-NOON,Meeting,No,Business
+511,08-01-2016,17:36:00,Tampa,Tampa,08-01-2016,19:15:00,99,67.5,742.5,EVENING,Meeting,Yes,Business
+512,13-01-2016,18:30:00,West Palm Beach,Tampa,13-01-2016,20:03:00,93,72.6,798.6,EVENING,Meeting,No,Business
+513,29-06-2016,06:52:00,Orlando,Kissimmee,29-06-2016,07:13:00,21,8.7,95.7,MORNING,Meeting,No,Business
+514,08-02-2016,16:03:00,Palm Bay,Palm Bay,08-02-2016,17:59:00,116,55,605,EVENING,Meeting,Yes,Personal
+515,06-03-2016,18:44:00,Orlando,West Palm Beach,06-03-2016,20:35:00,111,61.7,678.7,EVENING,Meeting,No,Business
+516,06-01-2016,17:49:00,Tampa,Kissimmee,06-01-2016,19:47:00,118,79.6,875.6,EVENING,Airport/Travel,No,Business
+517,12-06-2016,07:29:00,West Palm Beach,Kissimmee,12-06-2016,07:38:00,9,5.4,59.4,MORNING,Customer Visit,No,Business
+518,14-04-2016,14:07:00,Miami,Kissimmee,14-04-2016,14:35:00,28,18.4,202.4,AFTER-NOON,Errand/Supplies,No,Business
+519,13-02-2016,06:02:00,Miami,Kissimmee,13-02-2016,07:15:00,73,29.2,321.2,MORNING,Meeting,No,Business
+520,22-05-2016,09:17:00,Kissimmee,Tampa,22-05-2016,10:13:00,56,30.1,331.1,MORNING,Meeting,No,Personal
+521,14-05-2016,08:26:00,Fort Pierce,Orlando,14-05-2016,10:25:00,119,46.5,511.5,MORNING,Meeting,No,Business
+522,22-06-2016,18:17:00,Kissimmee,Kissimmee,22-06-2016,20:17:00,120,66.5,731.5,EVENING,Meeting,Yes,Personal
+523,26-01-2016,14:05:00,Miami,Palm Bay,26-01-2016,15:54:00,109,42.7,469.7,AFTER-NOON,Customer Visit,No,Business
+524,19-06-2016,17:10:00,Fort Pierce,Miami,19-06-2016,17:50:00,40,17.6,193.6,EVENING,Customer Visit,No,Personal
+525,05-02-2016,18:12:00,West Palm Beach,West Palm Beach,05-02-2016,19:36:00,84,48.3,531.3,EVENING,Meal/Entertain,Yes,Personal
+526,08-03-2016,18:08:00,Miami,Tampa,08-03-2016,18:51:00,43,25.7,282.7,EVENING,Meeting,No,Personal
+527,13-02-2016,09:30:00,Orlando,Tampa,13-02-2016,11:27:00,117,37,407,MORNING,Meeting,No,Business
+528,09-01-2016,15:14:00,Palm Bay,Tampa,09-01-2016,16:20:00,66,27.4,301.4,EVENING,Meeting,No,Business
+529,21-06-2016,13:59:00,Orlando,Palm Bay,21-06-2016,14:28:00,29,18.9,207.9,AFTER-NOON,Errand/Supplies,No,Personal
+530,22-03-2016,12:19:00,Miami,Palm Bay,22-03-2016,12:45:00,26,17.6,193.6,AFTER-NOON,Meeting,No,Business
+531,18-01-2016,19:20:00,Tampa,Palm Bay,18-01-2016,19:51:00,31,12.7,139.7,NIGHT,Customer Visit,No,Business
+532,03-03-2016,08:12:00,Fort Pierce,Miami,03-03-2016,08:29:00,17,11,121,MORNING,Meal/Entertain,No,Business
+533,16-05-2016,13:06:00,Miami,Tampa,16-05-2016,14:16:00,70,32.5,357.5,AFTER-NOON,Customer Visit,No,Business
+534,13-01-2016,09:02:00,West Palm Beach,Tampa,13-01-2016,09:57:00,55,26,286,MORNING,Customer Visit,No,Business
+535,13-02-2016,13:56:00,Kissimmee,West Palm Beach,13-02-2016,14:53:00,57,32.2,354.2,AFTER-NOON,Errand/Supplies,No,Personal
+536,19-02-2016,11:57:00,Miami,Fort Pierce,19-02-2016,12:34:00,37,15.1,166.1,AFTER-NOON,Meeting,No,Business
+537,26-05-2016,10:12:00,Miami,Miami,26-05-2016,10:20:00,8,4.1,45.1,AFTER-NOON,Meal/Entertain,Yes,Business
+538,14-03-2016,11:54:00,Palm Bay,Tampa,14-03-2016,13:03:00,69,23.5,258.5,AFTER-NOON,Meal/Entertain,No,Business
+539,30-05-2016,13:24:00,West Palm Beach,Tampa,30-05-2016,14:49:00,85,64.8,712.8,AFTER-NOON,Meeting,No,Business
+540,03-01-2016,10:28:00,West Palm Beach,Kissimmee,03-01-2016,11:42:00,74,54.2,596.2,AFTER-NOON,Airport/Travel,No,Business
+541,09-06-2016,16:07:00,Palm Bay,West Palm Beach,09-06-2016,17:42:00,95,62.8,690.8,EVENING,Meal/Entertain,No,Personal
+542,22-04-2016,10:37:00,Orlando,Miami,22-04-2016,11:29:00,52,32.5,357.5,AFTER-NOON,Meeting,No,Personal
+543,14-04-2016,06:14:00,Palm Bay,Kissimmee,14-04-2016,06:39:00,25,7.8,85.8,MORNING,Airport/Travel,No,Business
+544,26-06-2016,16:15:00,Tampa,Miami,26-06-2016,16:23:00,8,4.5,49.5,EVENING,Errand/Supplies,No,Business
+545,04-05-2016,14:09:00,Palm Bay,Palm Bay,04-05-2016,15:28:00,79,34.1,375.1,AFTER-NOON,Meal/Entertain,Yes,Business
+546,19-06-2016,07:44:00,Kissimmee,Fort Pierce,19-06-2016,09:02:00,78,52,572,MORNING,Meeting,No,Business
+547,23-04-2016,16:54:00,Kissimmee,Fort Pierce,23-04-2016,17:57:00,63,39.1,430.1,EVENING,Meal/Entertain,No,Business
+548,18-03-2016,14:10:00,Orlando,West Palm Beach,18-03-2016,15:51:00,101,43,473,AFTER-NOON,Meeting,No,Personal
+549,17-04-2016,19:22:00,Fort Pierce,Miami,17-04-2016,20:36:00,74,22.2,244.2,NIGHT,Customer Visit,No,Personal
+550,16-06-2016,07:21:00,Fort Pierce,Tampa,16-06-2016,07:43:00,22,13.2,145.2,MORNING,Errand/Supplies,No,Business
+551,14-02-2016,06:05:00,Fort Pierce,Tampa,14-02-2016,07:12:00,67,34.4,378.4,MORNING,Meeting,No,Business
+552,23-01-2016,06:41:00,Miami,Orlando,23-01-2016,07:31:00,50,34.6,380.6,MORNING,Meeting,No,Business
+553,13-02-2016,09:48:00,West Palm Beach,Kissimmee,13-02-2016,10:14:00,26,19.8,217.8,MORNING,Meeting,No,Personal
+554,10-04-2016,13:31:00,Tampa,Kissimmee,10-04-2016,14:10:00,39,24.4,268.4,AFTER-NOON,Customer Visit,No,Business
+555,27-06-2016,06:12:00,Orlando,Miami,27-06-2016,07:23:00,71,33.5,368.5,MORNING,Meal/Entertain,No,Business
+556,06-01-2016,06:55:00,Orlando,West Palm Beach,06-01-2016,08:38:00,103,79.1,870.1,MORNING,Meeting,No,Business
+557,19-03-2016,16:41:00,West Palm Beach,Tampa,19-03-2016,18:06:00,85,28.6,314.6,EVENING,Meeting,No,Business
+558,01-01-2016,08:23:00,Palm Bay,Kissimmee,01-01-2016,09:12:00,49,20,220,MORNING,Customer Visit,No,Business
+559,08-06-2016,13:20:00,Fort Pierce,Miami,08-06-2016,14:44:00,84,36.7,403.7,AFTER-NOON,Airport/Travel,No,Business
+560,07-04-2016,08:16:00,Tampa,Fort Pierce,07-04-2016,08:28:00,12,6.3,69.3,MORNING,Errand/Supplies,No,Personal
+561,24-02-2016,18:15:00,Kissimmee,Orlando,24-02-2016,18:37:00,22,11.3,124.3,EVENING,Meal/Entertain,No,Personal
+562,28-06-2016,20:16:00,Tampa,West Palm Beach,28-06-2016,20:50:00,34,20.7,227.7,NIGHT,Meal/Entertain,No,Personal
+563,05-06-2016,14:12:00,Orlando,Miami,05-06-2016,15:55:00,103,72.8,800.8,AFTER-NOON,Meeting,No,Personal
+564,05-04-2016,10:42:00,West Palm Beach,Palm Bay,05-04-2016,12:41:00,119,93,1023,AFTER-NOON,Customer Visit,No,Business
+565,08-03-2016,09:36:00,West Palm Beach,Fort Pierce,08-03-2016,11:07:00,91,52.4,576.4,MORNING,Meal/Entertain,No,Business
+566,19-03-2016,09:24:00,Miami,Miami,19-03-2016,09:47:00,23,14.1,155.1,MORNING,Customer Visit,Yes,Business
+567,21-06-2016,18:09:00,Orlando,West Palm Beach,21-06-2016,18:41:00,32,13.6,149.6,EVENING,Meeting,No,Business
+568,06-04-2016,13:36:00,Miami,Fort Pierce,06-04-2016,15:23:00,107,80,880,AFTER-NOON,Customer Visit,No,Business
+569,17-06-2016,06:04:00,Palm Bay,Tampa,17-06-2016,07:17:00,73,22.5,247.5,MORNING,Meeting,No,Business
+570,21-02-2016,15:30:00,Miami,Tampa,21-02-2016,16:29:00,59,39.6,435.6,EVENING,Customer Visit,No,Personal
+571,27-02-2016,09:38:00,Kissimmee,Orlando,27-02-2016,10:20:00,42,13.3,146.3,MORNING,Meal/Entertain,No,Business
+572,07-01-2016,16:58:00,Tampa,Fort Pierce,07-01-2016,18:35:00,97,45.1,496.1,EVENING,Meal/Entertain,No,Business
+573,01-03-2016,14:07:00,Miami,West Palm Beach,01-03-2016,16:05:00,118,67.7,744.7,AFTER-NOON,Customer Visit,No,Business
+574,12-06-2016,14:44:00,Fort Pierce,Fort Pierce,12-06-2016,16:40:00,116,36,396,AFTER-NOON,Meal/Entertain,Yes,Business
+575,16-05-2016,12:31:00,Tampa,Fort Pierce,16-05-2016,13:35:00,64,30.4,334.4,AFTER-NOON,Errand/Supplies,No,Business
+576,24-04-2016,10:40:00,Miami,Palm Bay,24-04-2016,11:49:00,69,44.1,485.1,AFTER-NOON,Meeting,No,Business
+577,23-04-2016,12:33:00,Palm Bay,Fort Pierce,23-04-2016,14:07:00,94,66.4,730.4,AFTER-NOON,Airport/Travel,No,Business
+578,16-01-2016,11:46:00,Tampa,Fort Pierce,16-01-2016,11:57:00,11,6.5,71.5,AFTER-NOON,Meeting,No,Business
+579,09-06-2016,09:10:00,Palm Bay,Palm Bay,09-06-2016,10:20:00,70,33.5,368.5,MORNING,Customer Visit,Yes,Business
+580,09-06-2016,10:12:00,Fort Pierce,Palm Bay,09-06-2016,11:16:00,64,47.2,519.2,AFTER-NOON,Meeting,No,Personal
+581,18-03-2016,17:15:00,Tampa,Orlando,18-03-2016,18:38:00,83,65,715,EVENING,Meeting,No,Business
+582,16-02-2016,17:20:00,Tampa,Palm Bay,16-02-2016,18:54:00,94,71.7,788.7,EVENING,Meal/Entertain,No,Personal
+583,20-05-2016,15:29:00,West Palm Beach,West Palm Beach,20-05-2016,15:53:00,24,14.8,162.8,EVENING,Errand/Supplies,Yes,Business
+584,02-04-2016,15:28:00,Orlando,Fort Pierce,02-04-2016,17:00:00,92,67.7,744.7,EVENING,Airport/Travel,No,Personal
+585,01-01-2016,18:00:00,Palm Bay,Kissimmee,01-01-2016,18:57:00,57,42.1,463.1,EVENING,Customer Visit,No,Business
+586,25-04-2016,20:33:00,Miami,Palm Bay,25-04-2016,20:48:00,15,11.9,130.9,NIGHT,Meeting,No,Personal
+587,20-04-2016,13:02:00,West Palm Beach,Orlando,20-04-2016,14:20:00,78,56.1,617.1,AFTER-NOON,Meal/Entertain,No,Business
+588,10-04-2016,08:54:00,Kissimmee,Orlando,10-04-2016,10:53:00,119,49.2,541.2,MORNING,Meeting,No,Business
+589,19-02-2016,18:13:00,Fort Pierce,West Palm Beach,19-02-2016,18:39:00,26,17.9,196.9,EVENING,Meal/Entertain,No,Business
+590,19-01-2016,15:34:00,Kissimmee,Palm Bay,19-01-2016,17:18:00,104,81.7,898.7,EVENING,Meal/Entertain,No,Personal
+591,18-04-2016,06:20:00,Fort Pierce,Orlando,18-04-2016,06:31:00,11,4.8,52.8,MORNING,Meal/Entertain,No,Personal
+592,10-04-2016,06:53:00,Palm Bay,West Palm Beach,10-04-2016,07:04:00,11,3.6,39.6,MORNING,Customer Visit,No,Business
+593,10-05-2016,07:15:00,Kissimmee,Kissimmee,10-05-2016,07:32:00,17,12.5,137.5,MORNING,Airport/Travel,Yes,Personal
+594,21-04-2016,19:58:00,Miami,Fort Pierce,21-04-2016,21:37:00,99,35.8,393.8,NIGHT,Errand/Supplies,No,Business
+595,29-01-2016,14:33:00,Kissimmee,Palm Bay,29-01-2016,14:46:00,13,7.4,81.4,AFTER-NOON,Errand/Supplies,No,Business
+596,28-01-2016,18:10:00,Fort Pierce,Miami,28-01-2016,19:22:00,72,52.9,581.9,EVENING,Meeting,No,Personal
+597,14-04-2016,15:41:00,Palm Bay,Orlando,14-04-2016,16:21:00,40,27.5,302.5,EVENING,Meeting,No,Business
+598,14-06-2016,07:34:00,Kissimmee,Palm Bay,14-06-2016,07:45:00,11,5.1,56.1,MORNING,Meal/Entertain,No,Business
+599,27-05-2016,12:21:00,Tampa,Miami,27-05-2016,13:47:00,86,33.7,370.7,AFTER-NOON,Meeting,No,Business
+600,02-04-2016,17:12:00,West Palm Beach,Miami,02-04-2016,18:15:00,63,34.8,382.8,EVENING,Airport/Travel,No,Personal
+601,22-04-2016,08:53:00,West Palm Beach,Miami,22-04-2016,10:18:00,85,36,396,MORNING,Customer Visit,No,Business
+602,12-03-2016,07:47:00,Tampa,West Palm Beach,12-03-2016,08:28:00,41,19.4,213.4,MORNING,Meal/Entertain,No,Business
+603,15-04-2016,09:29:00,Palm Bay,Miami,15-04-2016,10:01:00,32,11.9,130.9,MORNING,Errand/Supplies,No,Business
+604,22-04-2016,18:21:00,Kissimmee,West Palm Beach,22-04-2016,18:35:00,14,8.1,89.1,EVENING,Errand/Supplies,No,Business
+605,08-04-2016,07:05:00,Tampa,Palm Bay,08-04-2016,07:31:00,26,16.9,185.9,MORNING,Meeting,No,Business
+606,12-02-2016,10:54:00,Miami,Fort Pierce,12-02-2016,12:31:00,97,48.6,534.6,AFTER-NOON,Airport/Travel,No,Business
+607,21-05-2016,20:19:00,West Palm Beach,Palm Bay,21-05-2016,21:38:00,79,51.2,563.2,NIGHT,Meeting,No,Business
+608,15-02-2016,14:10:00,Tampa,Miami,15-02-2016,15:30:00,80,48.7,535.7,AFTER-NOON,Errand/Supplies,No,Business
+609,03-06-2016,12:53:00,Kissimmee,Kissimmee,03-06-2016,14:22:00,89,48,528,AFTER-NOON,Airport/Travel,Yes,Business
+610,13-05-2016,14:52:00,Tampa,Fort Pierce,13-05-2016,15:16:00,24,9.7,106.7,AFTER-NOON,Meal/Entertain,No,Business
+611,12-06-2016,06:50:00,Miami,Palm Bay,12-06-2016,07:55:00,65,45.2,497.2,MORNING,Meeting,No,Personal
+612,11-06-2016,10:45:00,Miami,West Palm Beach,11-06-2016,11:38:00,53,42.2,464.2,AFTER-NOON,Meeting,No,Personal
+613,14-03-2016,12:12:00,Miami,Miami,14-03-2016,12:46:00,34,24.1,265.1,AFTER-NOON,Customer Visit,Yes,Business
+614,07-02-2016,09:26:00,Fort Pierce,Orlando,07-02-2016,11:01:00,95,39.4,433.4,MORNING,Meeting,No,Business
+615,31-05-2016,14:58:00,Kissimmee,Fort Pierce,31-05-2016,15:21:00,23,18.1,199.1,AFTER-NOON,Meeting,No,Business
+616,15-04-2016,15:03:00,Tampa,Kissimmee,15-04-2016,16:00:00,57,41.5,456.5,EVENING,Errand/Supplies,No,Personal
+617,25-04-2016,13:55:00,Kissimmee,West Palm Beach,25-04-2016,15:35:00,100,36.6,402.6,AFTER-NOON,Customer Visit,No,Business
+618,06-02-2016,19:59:00,Miami,Miami,06-02-2016,20:24:00,25,18.5,203.5,NIGHT,Customer Visit,Yes,Business
+619,10-02-2016,10:21:00,Fort Pierce,Orlando,10-02-2016,11:12:00,51,37.3,410.3,AFTER-NOON,Meeting,No,Business
+620,28-06-2016,16:39:00,Kissimmee,Kissimmee,28-06-2016,17:29:00,50,24.3,267.3,EVENING,Airport/Travel,Yes,Business
+621,03-05-2016,19:03:00,Palm Bay,Kissimmee,03-05-2016,20:38:00,95,63.8,701.8,NIGHT,Errand/Supplies,No,Business
+622,31-03-2016,14:26:00,Miami,West Palm Beach,31-03-2016,14:37:00,11,5.9,64.9,AFTER-NOON,Customer Visit,No,Personal
+623,07-06-2016,08:41:00,Kissimmee,Miami,07-06-2016,09:07:00,26,11.2,123.2,MORNING,Meal/Entertain,No,Business
+624,02-02-2016,13:31:00,West Palm Beach,Fort Pierce,02-02-2016,14:56:00,85,45.3,498.3,AFTER-NOON,Meeting,No,Business
+625,28-06-2016,10:33:00,Fort Pierce,Orlando,28-06-2016,12:13:00,100,66,726,AFTER-NOON,Meal/Entertain,No,Business
+626,21-03-2016,11:48:00,Tampa,Orlando,21-03-2016,12:03:00,15,10.5,115.5,AFTER-NOON,Meeting,No,Personal
+627,30-05-2016,20:13:00,Orlando,Fort Pierce,30-05-2016,22:01:00,108,85.9,944.9,NIGHT,Meeting,No,Personal
+628,24-05-2016,20:06:00,Palm Bay,Miami,24-05-2016,21:02:00,56,42.1,463.1,NIGHT,Meeting,No,Personal
+629,24-02-2016,07:33:00,Palm Bay,Kissimmee,24-02-2016,08:18:00,45,21.9,240.9,MORNING,Customer Visit,No,Personal
+630,20-02-2016,12:46:00,Tampa,Fort Pierce,20-02-2016,14:17:00,91,71,781,AFTER-NOON,Customer Visit,No,Business
+631,03-01-2016,13:00:00,Miami,Palm Bay,03-01-2016,14:12:00,72,23.7,260.7,AFTER-NOON,Meeting,No,Business
+632,03-01-2016,08:37:00,Orlando,Kissimmee,03-01-2016,09:28:00,51,18.4,202.4,MORNING,Errand/Supplies,No,Business
+633,27-06-2016,07:19:00,Orlando,Palm Bay,27-06-2016,08:33:00,74,31.2,343.2,MORNING,Meeting,No,Business
+634,08-05-2016,17:26:00,Palm Bay,West Palm Beach,08-05-2016,17:31:00,5,1.6,17.6,EVENING,Meal/Entertain,No,Business
+635,08-03-2016,11:32:00,Miami,Fort Pierce,08-03-2016,13:01:00,89,33.5,368.5,AFTER-NOON,Meeting,No,Business
+636,01-02-2016,07:39:00,Miami,Palm Bay,01-02-2016,07:57:00,18,7.9,86.9,MORNING,Meal/Entertain,No,Business
+637,03-06-2016,10:22:00,Miami,Kissimmee,03-06-2016,12:11:00,109,35.4,389.4,AFTER-NOON,Meeting,No,Business
+638,20-02-2016,14:09:00,Orlando,Kissimmee,20-02-2016,15:01:00,52,29.1,320.1,AFTER-NOON,Meal/Entertain,No,Business
+639,20-05-2016,18:39:00,Palm Bay,Kissimmee,20-05-2016,19:16:00,37,28.3,311.3,EVENING,Meal/Entertain,No,Business
+640,24-06-2016,07:35:00,Fort Pierce,Orlando,24-06-2016,07:49:00,14,10.1,111.1,MORNING,Meeting,No,Business
+641,23-03-2016,11:18:00,Kissimmee,Orlando,23-03-2016,13:06:00,108,50.6,556.6,AFTER-NOON,Errand/Supplies,No,Personal
+642,26-06-2016,08:30:00,West Palm Beach,Orlando,26-06-2016,08:52:00,22,11.1,122.1,MORNING,Meal/Entertain,No,Business
+643,07-01-2016,12:59:00,Orlando,Fort Pierce,07-01-2016,13:15:00,16,7.5,82.5,AFTER-NOON,Meeting,No,Business
+644,04-01-2016,09:20:00,Kissimmee,Kissimmee,04-01-2016,09:49:00,29,20.1,221.1,MORNING,Customer Visit,Yes,Business
+645,12-06-2016,13:59:00,Kissimmee,Orlando,12-06-2016,15:26:00,87,41.9,460.9,AFTER-NOON,Customer Visit,No,Business
+646,02-03-2016,14:23:00,Miami,Tampa,02-03-2016,14:42:00,19,9.5,104.5,AFTER-NOON,Customer Visit,No,Business
+647,13-06-2016,11:21:00,Palm Bay,Orlando,13-06-2016,11:44:00,23,9.2,101.2,AFTER-NOON,Meeting,No,Business
+648,19-02-2016,19:54:00,Palm Bay,Miami,19-02-2016,21:38:00,104,35.4,389.4,NIGHT,Customer Visit,No,Business
+649,18-03-2016,10:58:00,Miami,Kissimmee,18-03-2016,11:16:00,18,10.3,113.3,AFTER-NOON,Meal/Entertain,No,Business
+650,22-05-2016,10:18:00,Fort Pierce,Orlando,22-05-2016,11:02:00,44,30.1,331.1,AFTER-NOON,Meeting,No,Business
+651,18-03-2016,08:56:00,West Palm Beach,West Palm Beach,18-03-2016,10:50:00,114,86.6,952.6,MORNING,Errand/Supplies,Yes,Personal
+652,02-02-2016,08:25:00,West Palm Beach,Miami,02-02-2016,09:57:00,92,39.1,430.1,MORNING,Customer Visit,No,Business
+653,09-02-2016,12:24:00,Tampa,West Palm Beach,09-02-2016,12:55:00,31,11.9,130.9,AFTER-NOON,Customer Visit,No,Business
+654,16-06-2016,07:22:00,Fort Pierce,West Palm Beach,16-06-2016,08:17:00,55,39.7,436.7,MORNING,Meeting,No,Business
+655,04-05-2016,11:03:00,Palm Bay,Orlando,04-05-2016,11:15:00,12,4.8,52.8,AFTER-NOON,Airport/Travel,No,Business
+656,20-01-2016,16:59:00,Orlando,Kissimmee,20-01-2016,18:52:00,113,89.8,987.8,EVENING,Meeting,No,Business
+657,12-01-2016,20:18:00,Miami,West Palm Beach,12-01-2016,20:58:00,40,18.4,202.4,NIGHT,Meeting,No,Business
+658,11-06-2016,17:32:00,Miami,Tampa,11-06-2016,19:27:00,115,49.7,546.7,EVENING,Errand/Supplies,No,Business
+659,15-01-2016,06:08:00,Palm Bay,Kissimmee,15-01-2016,08:07:00,119,59.2,651.2,MORNING,Airport/Travel,No,Business
+660,19-01-2016,12:10:00,Miami,Palm Bay,19-01-2016,12:27:00,17,6.3,69.3,AFTER-NOON,Airport/Travel,No,Business
+661,08-06-2016,08:07:00,Miami,West Palm Beach,08-06-2016,09:36:00,89,61.6,677.6,MORNING,Meal/Entertain,No,Business
+662,14-06-2016,11:11:00,Miami,Miami,14-06-2016,11:29:00,18,12.9,141.9,AFTER-NOON,Airport/Travel,Yes,Personal
+663,02-05-2016,14:56:00,West Palm Beach,West Palm Beach,02-05-2016,16:36:00,100,65.2,717.2,AFTER-NOON,Meeting,Yes,Business
+664,29-01-2016,20:52:00,Kissimmee,Miami,29-01-2016,21:06:00,14,9.2,101.2,NIGHT,Meeting,No,Business
+665,24-02-2016,07:20:00,Tampa,Fort Pierce,24-02-2016,08:36:00,76,27.7,304.7,MORNING,Customer Visit,No,Personal
+666,09-01-2016,09:38:00,Orlando,Orlando,09-01-2016,10:45:00,67,27.5,302.5,MORNING,Meeting,Yes,Business
+667,13-01-2016,16:26:00,Fort Pierce,Fort Pierce,13-01-2016,17:29:00,63,43.2,475.2,EVENING,Errand/Supplies,Yes,Business
+668,14-06-2016,14:38:00,Orlando,Kissimmee,14-06-2016,16:32:00,114,45.8,503.8,AFTER-NOON,Meeting,No,Business
+669,10-05-2016,15:38:00,Orlando,Miami,10-05-2016,15:48:00,10,3.2,35.2,EVENING,Meeting,No,Personal
+670,31-03-2016,20:23:00,Orlando,Palm Bay,31-03-2016,21:30:00,67,38.4,422.4,NIGHT,Meeting,No,Business
+671,11-02-2016,09:11:00,Miami,Fort Pierce,11-02-2016,09:28:00,17,8.7,95.7,MORNING,Meeting,No,Business
+672,18-04-2016,06:07:00,Tampa,Kissimmee,18-04-2016,06:48:00,41,23.4,257.4,MORNING,Meeting,No,Business
+673,16-05-2016,08:54:00,Tampa,Palm Bay,16-05-2016,09:21:00,27,16.9,185.9,MORNING,Meeting,No,Personal
+674,04-04-2016,18:12:00,Orlando,Tampa,04-04-2016,18:52:00,40,15.6,171.6,EVENING,Meeting,No,Business
+675,17-02-2016,12:22:00,Fort Pierce,Fort Pierce,17-02-2016,13:45:00,83,45.9,504.9,AFTER-NOON,Meeting,Yes,Business
+676,08-03-2016,17:29:00,Fort Pierce,Miami,08-03-2016,17:37:00,8,2.8,30.8,EVENING,Meeting,No,Business
+677,10-04-2016,07:26:00,Miami,West Palm Beach,10-04-2016,07:40:00,14,6.5,71.5,MORNING,Meeting,No,Business
+678,04-05-2016,07:14:00,West Palm Beach,Tampa,04-05-2016,08:59:00,105,58.4,642.4,MORNING,Meeting,No,Personal
+679,11-02-2016,14:50:00,Tampa,Orlando,11-02-2016,16:40:00,110,87,957,AFTER-NOON,Meeting,No,Business
+680,25-01-2016,14:25:00,Fort Pierce,Orlando,25-01-2016,15:48:00,83,31.4,345.4,AFTER-NOON,Meal/Entertain,No,Business
+681,16-01-2016,13:23:00,Miami,Palm Bay,16-01-2016,14:36:00,73,38.4,422.4,AFTER-NOON,Meeting,No,Business
+682,23-04-2016,07:42:00,West Palm Beach,Tampa,23-04-2016,08:41:00,59,34.5,379.5,MORNING,Meeting,No,Personal
+683,17-04-2016,06:14:00,Palm Bay,Tampa,17-04-2016,07:33:00,79,53.7,590.7,MORNING,Meeting,No,Business
+684,20-04-2016,12:56:00,Miami,Orlando,20-04-2016,14:46:00,110,50.4,554.4,AFTER-NOON,Meeting,No,Personal
+685,22-02-2016,10:07:00,Miami,Orlando,22-02-2016,11:28:00,81,46.9,515.9,AFTER-NOON,Errand/Supplies,No,Personal
+686,17-06-2016,13:14:00,West Palm Beach,Palm Bay,17-06-2016,14:30:00,76,38.8,426.8,AFTER-NOON,Meeting,No,Business
+687,08-03-2016,07:38:00,Orlando,Tampa,08-03-2016,09:11:00,93,33.5,368.5,MORNING,Meeting,No,Personal
+688,28-06-2016,20:35:00,Fort Pierce,Tampa,28-06-2016,20:51:00,16,10.8,118.8,NIGHT,Meal/Entertain,No,Personal
+689,03-03-2016,15:18:00,West Palm Beach,Palm Bay,03-03-2016,15:57:00,39,30,330,EVENING,Meeting,No,Business
+690,21-05-2016,16:22:00,Miami,Miami,21-05-2016,17:38:00,76,56.1,617.1,EVENING,Customer Visit,Yes,Business
+691,10-01-2016,07:04:00,West Palm Beach,West Palm Beach,10-01-2016,08:27:00,83,30.2,332.2,MORNING,Meal/Entertain,Yes,Business
+692,17-06-2016,06:11:00,Kissimmee,West Palm Beach,17-06-2016,06:24:00,13,8.6,94.6,MORNING,Customer Visit,No,Business
+693,30-04-2016,08:31:00,Fort Pierce,Palm Bay,30-04-2016,10:29:00,118,78.3,861.3,MORNING,Meal/Entertain,No,Business
+694,24-06-2016,09:43:00,Miami,Fort Pierce,24-06-2016,11:18:00,95,67.3,740.3,MORNING,Meal/Entertain,No,Business
+695,05-01-2016,15:13:00,Tampa,Fort Pierce,05-01-2016,16:56:00,103,45.6,501.6,EVENING,Customer Visit,No,Personal
+696,18-04-2016,16:24:00,Fort Pierce,Palm Bay,18-04-2016,16:30:00,6,4.3,47.3,EVENING,Meeting,No,Business
+697,25-05-2016,09:38:00,Miami,Palm Bay,25-05-2016,10:26:00,48,19.9,218.9,MORNING,Meeting,No,Business
+698,03-02-2016,07:21:00,West Palm Beach,Palm Bay,03-02-2016,08:47:00,86,46.6,512.6,MORNING,Meeting,No,Business
+699,06-05-2016,17:14:00,Palm Bay,Tampa,06-05-2016,17:19:00,5,2.6,28.6,EVENING,Errand/Supplies,No,Business
+700,13-01-2016,18:12:00,Miami,Tampa,13-01-2016,18:44:00,32,23,253,EVENING,Meeting,No,Business
+701,13-01-2016,11:58:00,Kissimmee,Fort Pierce,13-01-2016,13:30:00,92,57.3,630.3,AFTER-NOON,Meeting,No,Business
+702,03-05-2016,06:41:00,Miami,Orlando,03-05-2016,07:18:00,37,27,297,MORNING,Meeting,No,Business
+703,12-03-2016,11:18:00,Fort Pierce,Palm Bay,12-03-2016,13:08:00,110,42.2,464.2,AFTER-NOON,Customer Visit,No,Business
+704,06-04-2016,18:53:00,Kissimmee,Orlando,06-04-2016,19:15:00,22,10.5,115.5,EVENING,Meal/Entertain,No,Personal
+705,30-03-2016,14:56:00,Fort Pierce,Palm Bay,30-03-2016,15:57:00,61,35.3,388.3,AFTER-NOON,Meeting,No,Business
+706,21-03-2016,15:31:00,Kissimmee,Tampa,21-03-2016,16:18:00,47,18.3,201.3,EVENING,Meeting,No,Business
+707,30-01-2016,09:52:00,Tampa,Fort Pierce,30-01-2016,11:34:00,102,62.2,684.2,MORNING,Meeting,No,Personal
+708,26-01-2016,11:46:00,Kissimmee,Fort Pierce,26-01-2016,13:44:00,118,51.5,566.5,AFTER-NOON,Meeting,No,Business
+709,14-06-2016,08:36:00,Kissimmee,Kissimmee,14-06-2016,09:47:00,71,56.4,620.4,MORNING,Meeting,Yes,Business
+710,19-02-2016,13:48:00,Palm Bay,West Palm Beach,19-02-2016,14:11:00,23,7.9,86.9,AFTER-NOON,Meeting,No,Business
+711,10-05-2016,14:33:00,Palm Bay,Orlando,10-05-2016,15:05:00,32,17.3,190.3,AFTER-NOON,Customer Visit,No,Personal
+712,16-02-2016,12:27:00,Tampa,Orlando,16-02-2016,12:37:00,10,6.8,74.8,AFTER-NOON,Meeting,No,Business
+713,06-05-2016,16:08:00,Miami,Fort Pierce,06-05-2016,17:41:00,93,43.8,481.8,EVENING,Meeting,No,Personal
+714,17-05-2016,15:31:00,Orlando,Tampa,17-05-2016,15:39:00,8,5.7,62.7,EVENING,Meeting,No,Business
+715,11-06-2016,19:44:00,Palm Bay,Orlando,11-06-2016,20:16:00,32,15.6,171.6,NIGHT,Customer Visit,No,Personal
+716,29-01-2016,09:47:00,Palm Bay,Tampa,29-01-2016,11:40:00,113,39.6,435.6,MORNING,Meeting,No,Business
+717,11-01-2016,06:46:00,West Palm Beach,Tampa,11-01-2016,08:42:00,116,70.7,777.7,MORNING,Meeting,No,Business
+718,20-03-2016,16:04:00,Kissimmee,Miami,20-03-2016,16:37:00,33,11.9,130.9,EVENING,Meal/Entertain,No,Personal
+719,11-01-2016,17:29:00,Kissimmee,Fort Pierce,11-01-2016,18:00:00,31,16,176,EVENING,Meeting,No,Personal
+720,06-02-2016,12:07:00,Orlando,West Palm Beach,06-02-2016,13:28:00,81,27.8,305.8,AFTER-NOON,Errand/Supplies,No,Personal
+721,08-01-2016,19:59:00,Tampa,Tampa,08-01-2016,20:32:00,33,10.4,114.4,NIGHT,Meeting,Yes,Business
+722,22-01-2016,09:51:00,Palm Bay,Kissimmee,22-01-2016,11:33:00,102,44.2,486.2,MORNING,Customer Visit,No,Personal
+723,02-02-2016,13:52:00,West Palm Beach,Miami,02-02-2016,14:23:00,31,10.9,119.9,AFTER-NOON,Meeting,No,Business
+724,26-02-2016,11:54:00,Palm Bay,Kissimmee,26-02-2016,13:30:00,96,68.4,752.4,AFTER-NOON,Meeting,No,Business
+725,11-06-2016,18:17:00,Tampa,Miami,11-06-2016,18:32:00,15,10.1,111.1,EVENING,Meal/Entertain,No,Business
+726,01-05-2016,09:19:00,Orlando,Miami,01-05-2016,10:08:00,49,38.7,425.7,MORNING,Meal/Entertain,No,Business
+727,07-02-2016,09:24:00,Kissimmee,Tampa,07-02-2016,09:29:00,5,1.5,16.5,MORNING,Meeting,No,Business
+728,01-02-2016,14:33:00,West Palm Beach,Palm Bay,01-02-2016,16:13:00,100,77.7,854.7,AFTER-NOON,Meal/Entertain,No,Personal
+729,27-04-2016,10:39:00,Orlando,Orlando,27-04-2016,11:40:00,61,46.4,510.4,AFTER-NOON,Errand/Supplies,Yes,Business
+730,16-02-2016,20:58:00,Miami,Tampa,16-02-2016,21:10:00,12,8.2,90.2,NIGHT,Meeting,No,Business
+731,26-05-2016,13:57:00,Tampa,West Palm Beach,26-05-2016,15:42:00,105,52.8,580.8,AFTER-NOON,Meal/Entertain,No,Business
+732,12-02-2016,19:57:00,Kissimmee,Kissimmee,12-02-2016,20:42:00,45,19,209,NIGHT,Customer Visit,Yes,Business
+733,26-05-2016,16:06:00,Miami,Orlando,26-05-2016,16:43:00,37,11.8,129.8,EVENING,Customer Visit,No,Personal
+734,13-02-2016,06:43:00,Kissimmee,Orlando,13-02-2016,07:07:00,24,17,187,MORNING,Airport/Travel,No,Business
+735,07-03-2016,07:56:00,Tampa,West Palm Beach,07-03-2016,09:38:00,102,65.9,724.9,MORNING,Meeting,No,Personal
+736,20-05-2016,06:54:00,Miami,Fort Pierce,20-05-2016,08:17:00,83,25.8,283.8,MORNING,Meal/Entertain,No,Business
+737,13-01-2016,11:34:00,Miami,Fort Pierce,13-01-2016,13:09:00,95,55.1,606.1,AFTER-NOON,Meeting,No,Business
+738,29-02-2016,10:11:00,Fort Pierce,Palm Bay,29-02-2016,10:19:00,8,3.1,34.1,AFTER-NOON,Meal/Entertain,No,Business
+739,15-02-2016,18:20:00,Palm Bay,Kissimmee,15-02-2016,20:13:00,113,77,847,EVENING,Errand/Supplies,No,Personal
+740,01-06-2016,13:07:00,Orlando,Orlando,01-06-2016,14:40:00,93,46.3,509.3,AFTER-NOON,Meeting,Yes,Business
+741,23-01-2016,17:18:00,Palm Bay,Kissimmee,23-01-2016,17:37:00,19,8.7,95.7,EVENING,Errand/Supplies,No,Business
+742,09-02-2016,11:15:00,Palm Bay,West Palm Beach,09-02-2016,12:45:00,90,62.5,687.5,AFTER-NOON,Customer Visit,No,Business
+743,04-01-2016,12:42:00,Orlando,Kissimmee,04-01-2016,14:35:00,113,81.7,898.7,AFTER-NOON,Meal/Entertain,No,Business
+744,23-05-2016,20:34:00,Miami,Fort Pierce,23-05-2016,21:56:00,82,45.9,504.9,NIGHT,Errand/Supplies,No,Personal
+745,05-02-2016,15:48:00,Kissimmee,Miami,05-02-2016,16:04:00,16,12.4,136.4,EVENING,Meeting,No,Business
+746,30-04-2016,11:04:00,Fort Pierce,Kissimmee,30-04-2016,11:41:00,37,17.3,190.3,AFTER-NOON,Meeting,No,Personal
+747,23-01-2016,06:03:00,Kissimmee,Tampa,23-01-2016,06:40:00,37,18.1,199.1,MORNING,Airport/Travel,No,Business
+748,29-02-2016,16:59:00,Orlando,Orlando,29-02-2016,18:36:00,97,62.9,691.9,EVENING,Meal/Entertain,Yes,Business
+749,27-03-2016,20:37:00,Kissimmee,Miami,27-03-2016,21:26:00,49,26.5,291.5,NIGHT,Customer Visit,No,Business
+750,13-04-2016,12:42:00,Miami,Palm Bay,13-04-2016,13:18:00,36,23.8,261.8,AFTER-NOON,Customer Visit,No,Personal
+751,03-03-2016,17:44:00,Tampa,Tampa,03-03-2016,18:48:00,64,34.1,375.1,EVENING,Meeting,Yes,Personal
+752,15-03-2016,10:33:00,Orlando,Fort Pierce,15-03-2016,12:28:00,115,59.4,653.4,AFTER-NOON,Meal/Entertain,No,Personal
+753,26-04-2016,10:12:00,Palm Bay,Kissimmee,26-04-2016,12:11:00,119,48.4,532.4,AFTER-NOON,Meeting,No,Business
+754,08-03-2016,18:31:00,Fort Pierce,Tampa,08-03-2016,18:47:00,16,5.8,63.8,EVENING,Meal/Entertain,No,Personal
+755,17-02-2016,16:51:00,Kissimmee,Fort Pierce,17-02-2016,17:40:00,49,19.2,211.2,EVENING,Meeting,No,Business
+756,05-06-2016,17:47:00,Orlando,Tampa,05-06-2016,18:51:00,64,30.2,332.2,EVENING,Errand/Supplies,No,Personal
+757,29-01-2016,17:43:00,West Palm Beach,Kissimmee,29-01-2016,18:51:00,68,49.3,542.3,EVENING,Customer Visit,No,Business
+758,14-05-2016,09:35:00,Tampa,Palm Bay,14-05-2016,10:37:00,62,45.2,497.2,MORNING,Errand/Supplies,No,Business
+759,20-06-2016,13:39:00,Palm Bay,West Palm Beach,20-06-2016,15:03:00,84,49.1,540.1,AFTER-NOON,Customer Visit,No,Business
+760,19-06-2016,06:16:00,Miami,Miami,19-06-2016,07:25:00,69,39.8,437.8,MORNING,Customer Visit,Yes,Business
+761,09-05-2016,18:01:00,Kissimmee,Palm Bay,09-05-2016,18:13:00,12,5.7,62.7,EVENING,Airport/Travel,No,Personal
+762,01-06-2016,15:02:00,Tampa,Palm Bay,01-06-2016,15:59:00,57,43.4,477.4,EVENING,Airport/Travel,No,Business
+763,23-04-2016,17:16:00,Orlando,Tampa,23-04-2016,18:54:00,98,69.5,764.5,EVENING,Customer Visit,No,Business
+764,25-04-2016,19:58:00,West Palm Beach,Orlando,25-04-2016,21:18:00,80,35.6,391.6,NIGHT,Airport/Travel,No,Business
+765,06-05-2016,18:18:00,Kissimmee,Tampa,06-05-2016,18:34:00,16,9,99,EVENING,Meal/Entertain,No,Business
+766,26-06-2016,07:10:00,West Palm Beach,Kissimmee,26-06-2016,07:58:00,48,15.5,170.5,MORNING,Customer Visit,No,Business
+767,18-02-2016,14:28:00,Tampa,Tampa,18-02-2016,15:03:00,35,17.7,194.7,AFTER-NOON,Meal/Entertain,Yes,Personal
+768,27-02-2016,14:57:00,Palm Bay,West Palm Beach,27-02-2016,15:12:00,15,8.7,95.7,AFTER-NOON,Meeting,No,Business
+769,19-06-2016,06:05:00,Fort Pierce,Kissimmee,19-06-2016,06:21:00,16,6.7,73.7,MORNING,Airport/Travel,No,Personal
+770,05-03-2016,20:02:00,Miami,Palm Bay,05-03-2016,20:24:00,22,16.6,182.6,NIGHT,Meeting,No,Personal
+771,05-06-2016,10:22:00,Orlando,Miami,05-06-2016,11:31:00,69,25.8,283.8,AFTER-NOON,Meal/Entertain,No,Personal
+772,11-02-2016,07:20:00,Miami,Palm Bay,11-02-2016,07:42:00,22,6.9,75.9,MORNING,Customer Visit,No,Personal
+773,01-05-2016,12:47:00,Palm Bay,Orlando,01-05-2016,14:14:00,87,53.8,591.8,AFTER-NOON,Customer Visit,No,Business
+774,27-01-2016,12:51:00,West Palm Beach,Orlando,27-01-2016,13:15:00,24,16.8,184.8,AFTER-NOON,Meal/Entertain,No,Personal
+775,29-06-2016,11:13:00,Palm Bay,Fort Pierce,29-06-2016,13:00:00,107,33.4,367.4,AFTER-NOON,Meeting,No,Business
+776,03-05-2016,06:59:00,Palm Bay,Palm Bay,03-05-2016,07:15:00,16,9.3,102.3,MORNING,Customer Visit,Yes,Business
+777,21-02-2016,12:04:00,West Palm Beach,Fort Pierce,21-02-2016,12:39:00,35,11.8,129.8,AFTER-NOON,Airport/Travel,No,Business
+778,17-05-2016,19:02:00,Orlando,West Palm Beach,17-05-2016,20:43:00,101,45.7,502.7,NIGHT,Customer Visit,No,Business
+779,09-03-2016,06:47:00,Miami,Kissimmee,09-03-2016,08:15:00,88,55,605,MORNING,Meeting,No,Business
+780,06-01-2016,16:17:00,Orlando,West Palm Beach,06-01-2016,17:15:00,58,29.7,326.7,EVENING,Meal/Entertain,No,Personal
+781,23-06-2016,16:04:00,Tampa,Kissimmee,23-06-2016,16:09:00,5,2.5,27.5,EVENING,Customer Visit,No,Business
+782,27-02-2016,13:08:00,Orlando,Orlando,27-02-2016,13:34:00,26,9.4,103.4,AFTER-NOON,Meeting,Yes,Business
+783,29-06-2016,18:35:00,Palm Bay,Tampa,29-06-2016,20:20:00,105,74.1,815.1,EVENING,Customer Visit,No,Business
+784,16-02-2016,07:56:00,Orlando,Kissimmee,16-02-2016,08:53:00,57,19.9,218.9,MORNING,Errand/Supplies,No,Business
+785,07-05-2016,06:31:00,Fort Pierce,Miami,07-05-2016,07:01:00,30,13.8,151.8,MORNING,Errand/Supplies,No,Business
+786,25-03-2016,16:58:00,Tampa,West Palm Beach,25-03-2016,17:58:00,60,23.3,256.3,EVENING,Meeting,No,Business
+787,18-01-2016,08:16:00,Miami,Orlando,18-01-2016,09:14:00,58,28.2,310.2,MORNING,Meeting,No,Business
+788,27-01-2016,20:18:00,West Palm Beach,Kissimmee,27-01-2016,22:09:00,111,60.6,666.6,NIGHT,Meeting,No,Business
+789,23-03-2016,15:11:00,Kissimmee,Fort Pierce,23-03-2016,15:39:00,28,20.8,228.8,EVENING,Meeting,No,Business
+790,08-05-2016,19:37:00,Palm Bay,Tampa,08-05-2016,20:25:00,48,31.7,348.7,NIGHT,Errand/Supplies,No,Business
+791,24-01-2016,13:22:00,Kissimmee,Tampa,24-01-2016,14:31:00,69,32.7,359.7,AFTER-NOON,Customer Visit,No,Business
+792,11-02-2016,17:57:00,West Palm Beach,Miami,11-02-2016,18:52:00,55,36.7,403.7,EVENING,Errand/Supplies,No,Business
+793,15-05-2016,09:59:00,Miami,Fort Pierce,15-05-2016,10:27:00,28,13.4,147.4,MORNING,Meal/Entertain,No,Business
+794,28-04-2016,10:14:00,Palm Bay,Miami,28-04-2016,10:25:00,11,6.1,67.1,AFTER-NOON,Customer Visit,No,Personal
+795,29-01-2016,11:55:00,Orlando,Palm Bay,29-01-2016,13:19:00,84,48.1,529.1,AFTER-NOON,Meeting,No,Business
+796,24-04-2016,19:08:00,Kissimmee,Orlando,24-04-2016,20:48:00,100,66,726,NIGHT,Meeting,No,Business
+797,09-04-2016,11:26:00,Miami,Palm Bay,09-04-2016,12:52:00,86,61.4,675.4,AFTER-NOON,Airport/Travel,No,Business
+798,27-02-2016,15:44:00,Tampa,Palm Bay,27-02-2016,17:11:00,87,47.3,520.3,EVENING,Meeting,No,Business
+799,01-05-2016,07:00:00,Palm Bay,Fort Pierce,01-05-2016,08:35:00,95,48.1,529.1,MORNING,Customer Visit,No,Business
+800,10-05-2016,20:51:00,West Palm Beach,Palm Bay,10-05-2016,21:21:00,30,19.4,213.4,NIGHT,Airport/Travel,No,Personal
+801,06-06-2016,20:28:00,Kissimmee,Miami,06-06-2016,20:36:00,8,3.2,35.2,NIGHT,Customer Visit,No,Business
+802,29-01-2016,10:18:00,Palm Bay,Palm Bay,29-01-2016,10:33:00,15,5.9,64.9,AFTER-NOON,Airport/Travel,Yes,Business
+803,05-03-2016,11:00:00,Miami,Miami,05-03-2016,12:28:00,88,48.3,531.3,AFTER-NOON,Meal/Entertain,Yes,Business
+804,01-05-2016,17:03:00,Palm Bay,West Palm Beach,01-05-2016,17:18:00,15,12,132,EVENING,Errand/Supplies,No,Business
+805,20-05-2016,11:11:00,Palm Bay,Tampa,20-05-2016,13:01:00,110,63.9,702.9,AFTER-NOON,Errand/Supplies,No,Business
+806,18-06-2016,07:32:00,Tampa,Palm Bay,18-06-2016,09:01:00,89,29.3,322.3,MORNING,Customer Visit,No,Business
+807,14-05-2016,16:23:00,Miami,Tampa,14-05-2016,17:43:00,80,54.3,597.3,EVENING,Meal/Entertain,No,Business
+808,02-01-2016,15:22:00,Palm Bay,Orlando,02-01-2016,17:19:00,117,65.4,719.4,EVENING,Meal/Entertain,No,Personal
+809,30-05-2016,20:36:00,Miami,Kissimmee,30-05-2016,22:09:00,93,39.4,433.4,NIGHT,Customer Visit,No,Personal
+810,21-03-2016,08:02:00,West Palm Beach,Orlando,21-03-2016,09:37:00,95,40.4,444.4,MORNING,Customer Visit,No,Business
+811,21-01-2016,20:48:00,West Palm Beach,Miami,21-01-2016,21:41:00,53,36,396,NIGHT,Airport/Travel,No,Business
+812,17-06-2016,14:00:00,Miami,West Palm Beach,17-06-2016,15:52:00,112,41.9,460.9,AFTER-NOON,Meeting,No,Business
+813,17-01-2016,07:27:00,West Palm Beach,Palm Bay,17-01-2016,08:01:00,34,20,220,MORNING,Customer Visit,No,Business
+814,22-03-2016,11:09:00,West Palm Beach,Palm Bay,22-03-2016,11:53:00,44,15.9,174.9,AFTER-NOON,Meeting,No,Business
+815,18-04-2016,17:26:00,West Palm Beach,West Palm Beach,18-04-2016,19:24:00,118,84.9,933.9,EVENING,Meeting,Yes,Business
+816,17-05-2016,11:08:00,Kissimmee,Palm Bay,17-05-2016,12:37:00,89,53.3,586.3,AFTER-NOON,Meal/Entertain,No,Business
+817,18-02-2016,09:22:00,Kissimmee,Palm Bay,18-02-2016,10:21:00,59,30.6,336.6,MORNING,Airport/Travel,No,Business
+818,06-05-2016,17:15:00,Fort Pierce,Palm Bay,06-05-2016,17:48:00,33,22.6,248.6,EVENING,Customer Visit,No,Business
+819,09-06-2016,12:58:00,Palm Bay,Miami,09-06-2016,14:49:00,111,62.8,690.8,AFTER-NOON,Meal/Entertain,No,Business
+820,29-03-2016,14:07:00,Orlando,Kissimmee,29-03-2016,14:37:00,30,23,253,AFTER-NOON,Meeting,No,Personal
+821,04-06-2016,12:17:00,Orlando,Tampa,04-06-2016,14:15:00,118,66.4,730.4,AFTER-NOON,Customer Visit,No,Business
+822,19-06-2016,14:11:00,West Palm Beach,Orlando,19-06-2016,14:51:00,40,18.4,202.4,AFTER-NOON,Meeting,No,Business
+823,29-02-2016,10:24:00,Miami,Fort Pierce,29-02-2016,12:11:00,107,76.4,840.4,AFTER-NOON,Errand/Supplies,No,Business
+824,11-01-2016,20:25:00,Kissimmee,Miami,11-01-2016,21:51:00,86,50.8,558.8,NIGHT,Errand/Supplies,No,Business
+825,19-03-2016,14:31:00,West Palm Beach,Tampa,19-03-2016,15:11:00,40,24.3,267.3,AFTER-NOON,Meal/Entertain,No,Business
+826,12-04-2016,19:08:00,Palm Bay,West Palm Beach,12-04-2016,20:40:00,92,37.1,408.1,NIGHT,Airport/Travel,No,Business
+827,17-03-2016,17:02:00,West Palm Beach,Orlando,17-03-2016,18:44:00,102,60,660,EVENING,Errand/Supplies,No,Business
+828,29-05-2016,13:22:00,Tampa,Tampa,29-05-2016,14:15:00,53,37.5,412.5,AFTER-NOON,Customer Visit,Yes,Business
+829,11-02-2016,08:59:00,Orlando,Orlando,11-02-2016,10:00:00,61,48.7,535.7,MORNING,Customer Visit,Yes,Business
+830,24-04-2016,15:25:00,Fort Pierce,Tampa,24-04-2016,17:17:00,112,77.5,852.5,EVENING,Meal/Entertain,No,Personal
+831,04-06-2016,06:55:00,Orlando,Miami,04-06-2016,08:30:00,95,40.4,444.4,MORNING,Meal/Entertain,No,Business
+832,03-01-2016,08:16:00,Orlando,Tampa,03-01-2016,08:40:00,24,12.2,134.2,MORNING,Meeting,No,Business
+833,04-06-2016,11:08:00,West Palm Beach,Palm Bay,04-06-2016,12:24:00,76,24.2,266.2,AFTER-NOON,Meeting,No,Business
+834,03-03-2016,09:20:00,Fort Pierce,Kissimmee,03-03-2016,11:17:00,117,82,902,MORNING,Customer Visit,No,Personal
+835,28-02-2016,16:16:00,Kissimmee,Kissimmee,28-02-2016,17:26:00,70,55.5,610.5,EVENING,Meeting,Yes,Business
+836,04-05-2016,11:57:00,Miami,Fort Pierce,04-05-2016,13:24:00,87,46.8,514.8,AFTER-NOON,Meeting,No,Business
+837,17-04-2016,16:36:00,Orlando,West Palm Beach,17-04-2016,18:04:00,88,52.4,576.4,EVENING,Errand/Supplies,No,Business
+838,07-03-2016,06:20:00,Palm Bay,Kissimmee,07-03-2016,07:28:00,68,45.1,496.1,MORNING,Meeting,No,Business
+839,27-04-2016,13:46:00,Miami,Fort Pierce,27-04-2016,14:26:00,40,15.9,174.9,AFTER-NOON,Errand/Supplies,No,Personal
+840,18-03-2016,09:05:00,Palm Bay,Palm Bay,18-03-2016,10:31:00,86,58.8,646.8,MORNING,Errand/Supplies,Yes,Personal
+841,21-04-2016,14:17:00,Palm Bay,Tampa,21-04-2016,15:07:00,50,19.3,212.3,AFTER-NOON,Meeting,No,Business
+842,01-06-2016,10:41:00,Palm Bay,West Palm Beach,01-06-2016,12:05:00,84,34.7,381.7,AFTER-NOON,Meeting,No,Business
+843,03-06-2016,11:35:00,Kissimmee,Palm Bay,03-06-2016,12:59:00,84,38.2,420.2,AFTER-NOON,Airport/Travel,No,Business
+844,07-05-2016,16:46:00,Kissimmee,West Palm Beach,07-05-2016,18:24:00,98,70.1,771.1,EVENING,Errand/Supplies,No,Business
+845,18-06-2016,11:26:00,Fort Pierce,Fort Pierce,18-06-2016,13:16:00,110,77.5,852.5,AFTER-NOON,Customer Visit,Yes,Business
+846,29-01-2016,13:41:00,Fort Pierce,Tampa,29-01-2016,14:48:00,67,49.3,542.3,AFTER-NOON,Meeting,No,Business
+847,25-06-2016,17:04:00,Palm Bay,Tampa,25-06-2016,17:29:00,25,8.6,94.6,EVENING,Meeting,No,Personal
+848,07-04-2016,13:46:00,Tampa,West Palm Beach,07-04-2016,15:33:00,107,48.6,534.6,AFTER-NOON,Errand/Supplies,No,Business
+849,26-05-2016,09:07:00,Tampa,Fort Pierce,26-05-2016,10:57:00,110,79,869,MORNING,Meal/Entertain,No,Business
+850,29-03-2016,11:01:00,Tampa,Orlando,29-03-2016,11:29:00,28,17.2,189.2,AFTER-NOON,Errand/Supplies,No,Business
+851,24-04-2016,12:06:00,Kissimmee,Tampa,24-04-2016,12:38:00,32,23.9,262.9,AFTER-NOON,Airport/Travel,No,Business
+852,13-03-2016,18:58:00,Kissimmee,Tampa,13-03-2016,19:15:00,17,9.8,107.8,EVENING,Errand/Supplies,No,Business
+853,17-05-2016,17:12:00,Kissimmee,Tampa,17-05-2016,18:20:00,68,34.3,377.3,EVENING,Errand/Supplies,No,Business
+854,03-03-2016,08:44:00,Kissimmee,Orlando,03-03-2016,09:41:00,57,35.8,393.8,MORNING,Meal/Entertain,No,Business
+855,01-03-2016,13:56:00,West Palm Beach,Fort Pierce,01-03-2016,15:56:00,120,69.7,766.7,AFTER-NOON,Errand/Supplies,No,Business
+856,05-01-2016,07:40:00,Kissimmee,Miami,05-01-2016,07:51:00,11,8.1,89.1,MORNING,Airport/Travel,No,Personal
+857,18-04-2016,11:38:00,Tampa,Orlando,18-04-2016,12:21:00,43,17,187,AFTER-NOON,Meeting,No,Business
+858,03-06-2016,19:31:00,Fort Pierce,West Palm Beach,03-06-2016,21:21:00,110,72.9,801.9,NIGHT,Meeting,No,Business
+859,13-02-2016,09:04:00,Tampa,Fort Pierce,13-02-2016,09:57:00,53,29.9,328.9,MORNING,Customer Visit,No,Business
+860,20-03-2016,10:56:00,Fort Pierce,Tampa,20-03-2016,12:33:00,97,50.5,555.5,AFTER-NOON,Meeting,No,Business
+861,26-04-2016,06:56:00,Orlando,Orlando,26-04-2016,08:36:00,100,69,759,MORNING,Errand/Supplies,Yes,Business
+862,10-01-2016,09:00:00,Fort Pierce,Palm Bay,10-01-2016,10:59:00,119,54.8,602.8,MORNING,Meeting,No,Business
+863,01-06-2016,17:13:00,Palm Bay,Miami,01-06-2016,17:49:00,36,18.4,202.4,EVENING,Errand/Supplies,No,Personal
+864,15-06-2016,11:33:00,Orlando,West Palm Beach,15-06-2016,13:17:00,104,77.2,849.2,AFTER-NOON,Meeting,No,Business
+865,17-06-2016,08:42:00,West Palm Beach,Palm Bay,17-06-2016,09:24:00,42,18.9,207.9,MORNING,Meeting,No,Business
+866,20-02-2016,16:32:00,Tampa,Palm Bay,20-02-2016,17:36:00,64,48.4,532.4,EVENING,Meeting,No,Business
+867,14-06-2016,13:16:00,Palm Bay,Orlando,14-06-2016,14:11:00,55,33.1,364.1,AFTER-NOON,Meeting,No,Business
+868,12-06-2016,19:09:00,Palm Bay,Orlando,12-06-2016,20:00:00,51,19.4,213.4,NIGHT,Meeting,No,Business
+869,14-01-2016,13:44:00,Orlando,West Palm Beach,14-01-2016,14:26:00,42,13.3,146.3,AFTER-NOON,Meeting,No,Business
+870,24-05-2016,16:07:00,West Palm Beach,Orlando,24-05-2016,17:54:00,107,44.3,487.3,EVENING,Airport/Travel,No,Business
+871,22-05-2016,13:39:00,Orlando,Tampa,22-05-2016,15:31:00,112,67.3,740.3,AFTER-NOON,Meal/Entertain,No,Business
+872,14-02-2016,15:14:00,West Palm Beach,Fort Pierce,14-02-2016,15:27:00,13,5.4,59.4,EVENING,Meeting,No,Business
+873,03-03-2016,20:17:00,Kissimmee,Orlando,03-03-2016,21:48:00,91,64.5,709.5,NIGHT,Meal/Entertain,No,Business
+874,28-02-2016,20:18:00,Kissimmee,Tampa,28-02-2016,21:03:00,45,30.7,337.7,NIGHT,Errand/Supplies,No,Business
+875,11-02-2016,09:08:00,Miami,Fort Pierce,11-02-2016,10:20:00,72,38.5,423.5,MORNING,Errand/Supplies,No,Business
+876,14-06-2016,17:50:00,Fort Pierce,Miami,14-06-2016,18:21:00,31,21.6,237.6,EVENING,Customer Visit,No,Business
+877,03-04-2016,18:31:00,Tampa,Palm Bay,03-04-2016,18:43:00,12,5.5,60.5,EVENING,Meeting,No,Personal
+878,18-06-2016,08:59:00,Fort Pierce,Fort Pierce,18-06-2016,10:29:00,90,44.9,493.9,MORNING,Customer Visit,Yes,Business
+879,01-06-2016,17:12:00,West Palm Beach,West Palm Beach,01-06-2016,18:44:00,92,58.3,641.3,EVENING,Meeting,Yes,Personal
+880,16-03-2016,12:31:00,Kissimmee,Orlando,16-03-2016,13:44:00,73,56.5,621.5,AFTER-NOON,Errand/Supplies,No,Business
+881,26-03-2016,14:14:00,Tampa,Palm Bay,26-03-2016,15:15:00,61,20.5,225.5,AFTER-NOON,Airport/Travel,No,Business
+882,17-06-2016,17:19:00,Kissimmee,Tampa,17-06-2016,17:57:00,38,12.8,140.8,EVENING,Meeting,No,Business
+883,04-02-2016,12:38:00,Orlando,Orlando,04-02-2016,14:08:00,90,42.3,465.3,AFTER-NOON,Meeting,Yes,Business
+884,02-05-2016,12:01:00,Palm Bay,Kissimmee,02-05-2016,12:33:00,32,17.7,194.7,AFTER-NOON,Meeting,No,Business
+885,14-02-2016,13:09:00,Palm Bay,West Palm Beach,14-02-2016,14:33:00,84,51.6,567.6,AFTER-NOON,Customer Visit,No,Personal
+886,25-06-2016,17:04:00,Tampa,Tampa,25-06-2016,17:20:00,16,10.4,114.4,EVENING,Meal/Entertain,Yes,Business
+887,09-01-2016,20:28:00,Tampa,Miami,09-01-2016,22:06:00,98,43.7,480.7,NIGHT,Customer Visit,No,Business
+888,15-02-2016,20:37:00,West Palm Beach,Palm Bay,15-02-2016,21:59:00,82,24.7,271.7,NIGHT,Meal/Entertain,No,Business
+889,29-04-2016,06:29:00,Miami,Palm Bay,29-04-2016,08:00:00,91,28.9,317.9,MORNING,Meeting,No,Business
+890,02-03-2016,07:03:00,Kissimmee,Fort Pierce,02-03-2016,07:40:00,37,19.8,217.8,MORNING,Meeting,No,Business
+891,31-05-2016,06:55:00,Miami,Fort Pierce,31-05-2016,07:57:00,62,21,231,MORNING,Errand/Supplies,No,Business
+892,27-04-2016,10:57:00,Orlando,Palm Bay,27-04-2016,12:45:00,108,46.1,507.1,AFTER-NOON,Meeting,No,Business
+893,24-05-2016,16:04:00,Palm Bay,Tampa,24-05-2016,18:01:00,117,42.8,470.8,EVENING,Meal/Entertain,No,Business
+894,13-03-2016,15:46:00,Kissimmee,Orlando,13-03-2016,16:43:00,57,31.9,350.9,EVENING,Meeting,No,Business
+895,05-04-2016,06:33:00,Miami,West Palm Beach,05-04-2016,08:18:00,105,57.5,632.5,MORNING,Meeting,No,Personal
+896,04-02-2016,12:19:00,Kissimmee,Orlando,04-02-2016,13:49:00,90,37.3,410.3,AFTER-NOON,Airport/Travel,No,Business
+897,14-03-2016,08:06:00,Tampa,Orlando,14-03-2016,10:03:00,117,38,418,MORNING,Meal/Entertain,No,Business
+898,26-02-2016,13:32:00,Fort Pierce,Fort Pierce,26-02-2016,15:25:00,113,51.2,563.2,AFTER-NOON,Customer Visit,Yes,Personal
+899,25-06-2016,08:44:00,Palm Bay,Tampa,25-06-2016,09:17:00,33,22.3,245.3,MORNING,Meal/Entertain,No,Business
+900,21-02-2016,18:47:00,West Palm Beach,Palm Bay,21-02-2016,19:45:00,58,18.4,202.4,EVENING,Customer Visit,No,Business
+901,16-01-2016,13:41:00,Kissimmee,Miami,16-01-2016,14:25:00,44,25,275,AFTER-NOON,Meeting,No,Business
+902,03-06-2016,16:07:00,Orlando,Tampa,03-06-2016,16:17:00,10,3.1,34.1,EVENING,Errand/Supplies,No,Business
+903,27-05-2016,09:43:00,Kissimmee,Tampa,27-05-2016,11:02:00,79,50.9,559.9,MORNING,Airport/Travel,No,Personal
+904,08-02-2016,06:02:00,Kissimmee,Kissimmee,08-02-2016,07:38:00,96,56.2,618.2,MORNING,Meeting,Yes,Business
+905,05-06-2016,12:50:00,Orlando,Miami,05-06-2016,14:29:00,99,44.7,491.7,AFTER-NOON,Customer Visit,No,Business
+906,07-03-2016,19:03:00,Miami,West Palm Beach,07-03-2016,19:47:00,44,28,308,NIGHT,Meeting,No,Business
+907,17-02-2016,17:56:00,West Palm Beach,Miami,17-02-2016,19:48:00,112,41,451,EVENING,Customer Visit,No,Business
+908,20-05-2016,09:45:00,Fort Pierce,Palm Bay,20-05-2016,10:12:00,27,14.8,162.8,MORNING,Errand/Supplies,No,Personal
+909,27-04-2016,18:39:00,Tampa,Orlando,27-04-2016,20:19:00,100,75.7,832.7,EVENING,Airport/Travel,No,Personal
+910,19-05-2016,13:08:00,Kissimmee,West Palm Beach,19-05-2016,15:04:00,116,79.8,877.8,AFTER-NOON,Meal/Entertain,No,Personal
+911,03-03-2016,16:03:00,West Palm Beach,West Palm Beach,03-03-2016,17:02:00,59,43.5,478.5,EVENING,Errand/Supplies,Yes,Business
+912,09-04-2016,09:14:00,Miami,Fort Pierce,09-04-2016,09:53:00,39,16.5,181.5,MORNING,Meal/Entertain,No,Business
+913,07-04-2016,13:45:00,West Palm Beach,Kissimmee,07-04-2016,15:40:00,115,74,814,AFTER-NOON,Meeting,No,Personal
+914,15-02-2016,18:25:00,West Palm Beach,Miami,15-02-2016,20:17:00,112,80.4,884.4,EVENING,Errand/Supplies,No,Personal
+915,29-06-2016,09:36:00,Palm Bay,Orlando,29-06-2016,10:49:00,73,49.6,545.6,MORNING,Errand/Supplies,No,Business
+916,19-05-2016,10:36:00,Tampa,West Palm Beach,19-05-2016,11:49:00,73,39.9,438.9,AFTER-NOON,Meeting,No,Business
+917,04-04-2016,11:29:00,West Palm Beach,Orlando,04-04-2016,13:05:00,96,41.2,453.2,AFTER-NOON,Meeting,No,Personal
+918,20-05-2016,10:44:00,Fort Pierce,Orlando,20-05-2016,12:06:00,82,26.1,287.1,AFTER-NOON,Meeting,No,Personal
+919,09-04-2016,19:42:00,Miami,Fort Pierce,09-04-2016,21:13:00,91,67.2,739.2,NIGHT,Errand/Supplies,No,Personal
+920,10-02-2016,14:59:00,Fort Pierce,Orlando,10-02-2016,16:25:00,86,68.7,755.7,AFTER-NOON,Meal/Entertain,No,Business
+921,28-02-2016,08:57:00,Palm Bay,Palm Bay,28-02-2016,10:09:00,72,36.3,399.3,MORNING,Meal/Entertain,Yes,Business
+922,31-03-2016,16:35:00,Miami,Fort Pierce,31-03-2016,17:44:00,69,46.3,509.3,EVENING,Meeting,No,Business
+923,04-01-2016,19:49:00,West Palm Beach,Tampa,04-01-2016,20:32:00,43,25.8,283.8,NIGHT,Meal/Entertain,No,Business
+924,19-06-2016,10:05:00,Palm Bay,Palm Bay,19-06-2016,10:45:00,40,26.4,290.4,AFTER-NOON,Meeting,Yes,Business
+925,02-01-2016,08:48:00,Fort Pierce,Fort Pierce,02-01-2016,10:22:00,94,29.5,324.5,MORNING,Errand/Supplies,Yes,Business
+926,13-01-2016,19:48:00,Palm Bay,Fort Pierce,13-01-2016,20:36:00,48,27.7,304.7,NIGHT,Meeting,No,Business
+927,10-03-2016,11:25:00,Fort Pierce,Kissimmee,10-03-2016,12:34:00,69,48.4,532.4,AFTER-NOON,Meeting,No,Business
+928,30-04-2016,06:07:00,Orlando,West Palm Beach,30-04-2016,06:31:00,24,9.8,107.8,MORNING,Meeting,No,Personal
+929,10-01-2016,12:10:00,Palm Bay,Fort Pierce,10-01-2016,13:28:00,78,28.9,317.9,AFTER-NOON,Customer Visit,No,Business
+930,28-05-2016,20:39:00,Orlando,Palm Bay,28-05-2016,22:01:00,82,29.4,323.4,NIGHT,Airport/Travel,No,Business
+931,30-04-2016,20:34:00,Miami,West Palm Beach,30-04-2016,22:31:00,117,44.8,492.8,NIGHT,Meal/Entertain,No,Business
+932,20-03-2016,19:34:00,Kissimmee,Kissimmee,20-03-2016,21:08:00,94,72.9,801.9,NIGHT,Meal/Entertain,Yes,Personal
+933,04-06-2016,09:50:00,Orlando,Palm Bay,04-06-2016,11:50:00,120,76.3,839.3,MORNING,Errand/Supplies,No,Personal
+934,16-05-2016,06:16:00,Palm Bay,West Palm Beach,16-05-2016,08:09:00,113,44.1,485.1,MORNING,Airport/Travel,No,Business
+935,15-01-2016,12:43:00,Fort Pierce,Palm Bay,15-01-2016,13:37:00,54,38.9,427.9,AFTER-NOON,Meal/Entertain,No,Business
+936,30-04-2016,14:45:00,Fort Pierce,West Palm Beach,30-04-2016,16:37:00,112,87.1,958.1,AFTER-NOON,Customer Visit,No,Personal
+937,06-01-2016,16:54:00,Tampa,Fort Pierce,06-01-2016,18:13:00,79,49.3,542.3,EVENING,Meeting,No,Business
+938,04-02-2016,17:53:00,Palm Bay,Fort Pierce,04-02-2016,19:45:00,112,78.6,864.6,EVENING,Meeting,No,Business
+939,03-06-2016,07:29:00,Fort Pierce,West Palm Beach,03-06-2016,07:54:00,25,12.2,134.2,MORNING,Meeting,No,Business
+940,08-05-2016,19:44:00,West Palm Beach,Kissimmee,08-05-2016,20:04:00,20,11.8,129.8,NIGHT,Meal/Entertain,No,Business
+941,19-06-2016,18:55:00,Fort Pierce,West Palm Beach,19-06-2016,19:33:00,38,27.5,302.5,EVENING,Customer Visit,No,Business
+942,25-06-2016,10:13:00,Tampa,Miami,25-06-2016,11:08:00,55,30.4,334.4,AFTER-NOON,Meal/Entertain,No,Business
+943,13-01-2016,10:08:00,Palm Bay,West Palm Beach,13-01-2016,10:56:00,48,24.5,269.5,AFTER-NOON,Meeting,No,Business
+944,20-02-2016,15:51:00,Orlando,Orlando,20-02-2016,17:46:00,115,66.7,733.7,EVENING,Customer Visit,Yes,Business
+945,06-01-2016,20:38:00,Orlando,Kissimmee,06-01-2016,22:20:00,102,79.3,872.3,NIGHT,Meeting,No,Business
+946,06-03-2016,12:18:00,Tampa,Fort Pierce,06-03-2016,12:47:00,29,20.2,222.2,AFTER-NOON,Errand/Supplies,No,Business
+947,08-03-2016,16:10:00,Miami,West Palm Beach,08-03-2016,17:02:00,52,31.7,348.7,EVENING,Errand/Supplies,No,Business
+948,13-02-2016,14:27:00,Fort Pierce,Orlando,13-02-2016,15:10:00,43,31.4,345.4,AFTER-NOON,Meal/Entertain,No,Personal
+949,15-01-2016,12:15:00,Kissimmee,Tampa,15-01-2016,13:53:00,98,73.9,812.9,AFTER-NOON,Meal/Entertain,No,Business
+950,05-05-2016,12:34:00,Miami,Miami,05-05-2016,14:07:00,93,64.2,706.2,AFTER-NOON,Customer Visit,Yes,Business
+951,17-05-2016,10:47:00,Kissimmee,Tampa,17-05-2016,10:56:00,9,5.4,59.4,AFTER-NOON,Errand/Supplies,No,Business
+952,27-02-2016,10:16:00,West Palm Beach,Kissimmee,27-02-2016,10:28:00,12,6.3,69.3,AFTER-NOON,Meal/Entertain,No,Business
+953,29-06-2016,06:37:00,West Palm Beach,Fort Pierce,29-06-2016,07:01:00,24,15.5,170.5,MORNING,Meeting,No,Personal
+954,23-03-2016,14:40:00,Miami,Kissimmee,23-03-2016,15:05:00,25,15.3,168.3,AFTER-NOON,Meal/Entertain,No,Business
+955,11-05-2016,15:25:00,Miami,Palm Bay,11-05-2016,15:33:00,8,4.6,50.6,EVENING,Meeting,No,Business
+956,27-03-2016,20:50:00,Fort Pierce,West Palm Beach,27-03-2016,22:35:00,105,73.4,807.4,NIGHT,Meeting,No,Business
+957,16-02-2016,07:19:00,Tampa,Orlando,16-02-2016,09:11:00,112,81.9,900.9,MORNING,Meal/Entertain,No,Business
+958,11-01-2016,09:31:00,Miami,Miami,11-01-2016,10:07:00,36,23.6,259.6,MORNING,Meal/Entertain,Yes,Business
+959,15-05-2016,11:41:00,Fort Pierce,Orlando,15-05-2016,12:24:00,43,29.2,321.2,AFTER-NOON,Errand/Supplies,No,Business
+960,30-05-2016,16:17:00,West Palm Beach,Miami,30-05-2016,17:55:00,98,47.6,523.6,EVENING,Airport/Travel,No,Business
+961,23-05-2016,11:01:00,Tampa,Kissimmee,23-05-2016,11:17:00,16,9.6,105.6,AFTER-NOON,Meeting,No,Business
+962,29-05-2016,13:50:00,Palm Bay,Palm Bay,29-05-2016,15:21:00,91,61.4,675.4,AFTER-NOON,Customer Visit,Yes,Business
+963,18-04-2016,17:04:00,Tampa,Fort Pierce,18-04-2016,18:44:00,100,41.8,459.8,EVENING,Errand/Supplies,No,Business
+964,13-01-2016,10:48:00,Tampa,Palm Bay,13-01-2016,11:44:00,56,43.6,479.6,AFTER-NOON,Customer Visit,No,Personal
+965,02-06-2016,20:36:00,Fort Pierce,Miami,02-06-2016,20:45:00,9,7.2,79.2,NIGHT,Customer Visit,No,Personal
+966,02-02-2016,19:12:00,Palm Bay,Orlando,02-02-2016,20:29:00,77,35.2,387.2,NIGHT,Meal/Entertain,No,Business
+967,07-06-2016,16:28:00,Palm Bay,Miami,07-06-2016,18:08:00,100,33.7,370.7,EVENING,Customer Visit,No,Business
+968,08-03-2016,17:36:00,Palm Bay,Fort Pierce,08-03-2016,18:39:00,63,29.9,328.9,EVENING,Errand/Supplies,No,Business
+969,27-05-2016,07:06:00,Kissimmee,Fort Pierce,27-05-2016,08:55:00,109,51.1,562.1,MORNING,Meeting,No,Business
+970,26-06-2016,16:35:00,Palm Bay,Fort Pierce,26-06-2016,17:39:00,64,28.1,309.1,EVENING,Meal/Entertain,No,Business
+971,22-03-2016,15:23:00,Kissimmee,West Palm Beach,22-03-2016,16:04:00,41,18.6,204.6,EVENING,Meeting,No,Business
+972,27-03-2016,13:10:00,Kissimmee,Palm Bay,27-03-2016,13:37:00,27,15.2,167.2,AFTER-NOON,Meeting,No,Business
+973,24-02-2016,11:58:00,Fort Pierce,Tampa,24-02-2016,13:25:00,87,63.9,702.9,AFTER-NOON,Customer Visit,No,Business
+974,22-06-2016,18:02:00,Kissimmee,Miami,22-06-2016,19:19:00,77,48,528,EVENING,Meeting,No,Business
+975,10-06-2016,13:47:00,Palm Bay,Fort Pierce,10-06-2016,14:01:00,14,6.8,74.8,AFTER-NOON,Errand/Supplies,No,Business
+976,26-05-2016,18:51:00,Kissimmee,Fort Pierce,26-05-2016,20:30:00,99,63,693,EVENING,Customer Visit,No,Business
+977,10-02-2016,11:18:00,Miami,Palm Bay,10-02-2016,12:16:00,58,38.5,423.5,AFTER-NOON,Airport/Travel,No,Business
+978,10-03-2016,10:31:00,Palm Bay,Palm Bay,10-03-2016,10:37:00,6,2.9,31.9,AFTER-NOON,Errand/Supplies,Yes,Business
+979,23-05-2016,14:01:00,Fort Pierce,Orlando,23-05-2016,15:14:00,73,39.9,438.9,AFTER-NOON,Meal/Entertain,No,Personal
+980,28-03-2016,06:04:00,Miami,Kissimmee,28-03-2016,07:39:00,95,31.1,342.1,MORNING,Meeting,No,Business
+981,21-05-2016,19:46:00,West Palm Beach,Palm Bay,21-05-2016,20:06:00,20,10.9,119.9,NIGHT,Meeting,No,Business
+982,21-06-2016,06:26:00,Palm Bay,Palm Bay,21-06-2016,06:55:00,29,21.9,240.9,MORNING,Airport/Travel,Yes,Personal
+983,08-02-2016,08:33:00,West Palm Beach,Palm Bay,08-02-2016,09:54:00,81,47.7,524.7,MORNING,Meeting,No,Business
+984,02-06-2016,19:08:00,Fort Pierce,Kissimmee,02-06-2016,19:39:00,31,18,198,NIGHT,Errand/Supplies,No,Business
+985,10-04-2016,11:05:00,Miami,Orlando,10-04-2016,11:35:00,30,18.7,205.7,AFTER-NOON,Customer Visit,No,Business
+986,13-05-2016,16:43:00,Tampa,West Palm Beach,13-05-2016,18:16:00,93,44.4,488.4,EVENING,Customer Visit,No,Personal
+987,28-04-2016,19:10:00,Tampa,Palm Bay,28-04-2016,19:32:00,22,10.9,119.9,NIGHT,Customer Visit,No,Business
+988,25-05-2016,13:47:00,Kissimmee,West Palm Beach,25-05-2016,14:16:00,29,11.5,126.5,AFTER-NOON,Meeting,No,Business
+989,07-01-2016,06:45:00,Kissimmee,Palm Bay,07-01-2016,06:56:00,11,5.5,60.5,MORNING,Customer Visit,No,Business
+990,12-05-2016,10:26:00,Orlando,Orlando,12-05-2016,11:39:00,73,42.7,469.7,AFTER-NOON,Meal/Entertain,Yes,Personal
+991,08-06-2016,12:31:00,Miami,Tampa,08-06-2016,13:24:00,53,33.7,370.7,AFTER-NOON,Airport/Travel,No,Personal
+992,20-03-2016,18:01:00,Fort Pierce,Palm Bay,20-03-2016,19:55:00,114,78.9,867.9,EVENING,Airport/Travel,No,Business
+993,30-01-2016,09:14:00,Miami,Miami,30-01-2016,10:20:00,66,24,264,MORNING,Customer Visit,Yes,Business
+994,23-06-2016,17:48:00,Palm Bay,Fort Pierce,23-06-2016,18:15:00,27,18.2,200.2,EVENING,Customer Visit,No,Business
+995,08-03-2016,14:40:00,Fort Pierce,Fort Pierce,08-03-2016,15:41:00,61,32.7,359.7,AFTER-NOON,Meal/Entertain,Yes,Business
+996,03-04-2016,08:49:00,Orlando,Miami,03-04-2016,09:21:00,32,19.8,217.8,MORNING,Meeting,No,Business
+997,23-02-2016,20:58:00,Kissimmee,West Palm Beach,23-02-2016,22:36:00,98,71.5,786.5,NIGHT,Meeting,No,Personal
+998,22-02-2016,19:13:00,Tampa,West Palm Beach,22-02-2016,19:19:00,6,4.7,51.7,NIGHT,Meal/Entertain,No,Business
+999,07-04-2016,14:00:00,Fort Pierce,West Palm Beach,07-04-2016,15:47:00,107,66.7,733.7,AFTER-NOON,Meeting,No,Business
+1000,24-01-2016,15:37:00,Kissimmee,Orlando,24-01-2016,17:14:00,97,30.5,335.5,EVENING,Airport/Travel,No,Business
+1001,18-05-2016,13:25:00,Kissimmee,Palm Bay,18-05-2016,14:29:00,64,26.9,295.9,AFTER-NOON,Airport/Travel,No,Business
+1002,19-04-2016,11:10:00,Orlando,Palm Bay,19-04-2016,12:28:00,78,25,275,AFTER-NOON,Airport/Travel,No,Business
+1003,12-02-2016,08:02:00,Orlando,West Palm Beach,12-02-2016,08:55:00,53,23.5,258.5,MORNING,Airport/Travel,No,Business
+1004,27-02-2016,07:39:00,Miami,Palm Bay,27-02-2016,07:53:00,14,7,77,MORNING,Meeting,No,Business
+1005,24-06-2016,10:48:00,Fort Pierce,West Palm Beach,24-06-2016,11:21:00,33,15.8,173.8,AFTER-NOON,Meal/Entertain,No,Business
+1006,20-06-2016,15:46:00,Orlando,Fort Pierce,20-06-2016,17:02:00,76,51,561,EVENING,Meeting,No,Personal
+1007,12-05-2016,11:25:00,Kissimmee,Miami,12-05-2016,13:01:00,96,37.9,416.9,AFTER-NOON,Customer Visit,No,Business
+1008,11-04-2016,09:28:00,Fort Pierce,Palm Bay,11-04-2016,10:04:00,36,15.2,167.2,MORNING,Customer Visit,No,Business
+1009,20-04-2016,17:46:00,Kissimmee,Tampa,20-04-2016,18:05:00,19,7.4,81.4,EVENING,Meeting,No,Business
+1010,17-02-2016,12:10:00,Palm Bay,Orlando,17-02-2016,13:46:00,96,74.3,817.3,AFTER-NOON,Customer Visit,No,Business
+1011,31-05-2016,11:56:00,Orlando,Tampa,31-05-2016,13:07:00,71,21.4,235.4,AFTER-NOON,Customer Visit,No,Business
+1012,01-02-2016,07:58:00,Palm Bay,Fort Pierce,01-02-2016,09:13:00,75,33,363,MORNING,Customer Visit,No,Personal
+1013,15-03-2016,16:58:00,Tampa,West Palm Beach,15-03-2016,17:20:00,22,14.2,156.2,EVENING,Customer Visit,No,Business
+1014,12-04-2016,12:12:00,Orlando,Kissimmee,12-04-2016,12:43:00,31,19,209,AFTER-NOON,Errand/Supplies,No,Business
+1015,25-03-2016,14:10:00,Miami,Tampa,25-03-2016,14:30:00,20,12.5,137.5,AFTER-NOON,Meeting,No,Business
+1016,01-05-2016,11:57:00,Kissimmee,Palm Bay,01-05-2016,12:24:00,27,8.6,94.6,AFTER-NOON,Meal/Entertain,No,Business
+1017,23-03-2016,14:24:00,Miami,Fort Pierce,23-03-2016,15:06:00,42,18.1,199.1,AFTER-NOON,Meal/Entertain,No,Business
+1018,08-06-2016,14:16:00,Palm Bay,Kissimmee,08-06-2016,14:50:00,34,11.9,130.9,AFTER-NOON,Meeting,No,Business
+1019,27-05-2016,19:26:00,Palm Bay,Fort Pierce,27-05-2016,20:21:00,55,24.8,272.8,NIGHT,Meeting,No,Business
+1020,29-04-2016,20:21:00,Tampa,Tampa,29-04-2016,21:02:00,41,27.7,304.7,NIGHT,Meeting,Yes,Personal
+1021,27-05-2016,09:21:00,Fort Pierce,Orlando,27-05-2016,10:56:00,95,40.6,446.6,MORNING,Meeting,No,Business
+1022,14-03-2016,11:40:00,Tampa,Fort Pierce,14-03-2016,13:00:00,80,59.8,657.8,AFTER-NOON,Meal/Entertain,No,Business
+1023,16-04-2016,19:23:00,Palm Bay,Tampa,16-04-2016,19:29:00,6,3.5,38.5,NIGHT,Meeting,No,Business
+1024,05-03-2016,15:54:00,Tampa,Fort Pierce,05-03-2016,16:20:00,26,10.8,118.8,EVENING,Errand/Supplies,No,Business
+1025,14-02-2016,20:49:00,Kissimmee,Fort Pierce,14-02-2016,22:05:00,76,42.3,465.3,NIGHT,Meal/Entertain,No,Business
+1026,11-01-2016,10:09:00,Palm Bay,Orlando,11-01-2016,11:21:00,72,33.7,370.7,AFTER-NOON,Meeting,No,Business
+1027,08-03-2016,19:50:00,Miami,Kissimmee,08-03-2016,20:44:00,54,26.6,292.6,NIGHT,Errand/Supplies,No,Personal
+1028,28-06-2016,15:00:00,Tampa,Palm Bay,28-06-2016,16:13:00,73,45,495,EVENING,Errand/Supplies,No,Business
+1029,12-06-2016,15:00:00,Kissimmee,West Palm Beach,12-06-2016,16:01:00,61,31.5,346.5,EVENING,Customer Visit,No,Personal
+1030,14-03-2016,10:33:00,West Palm Beach,Fort Pierce,14-03-2016,11:02:00,29,10.3,113.3,AFTER-NOON,Customer Visit,No,Personal
+1031,12-05-2016,11:19:00,Palm Bay,Orlando,12-05-2016,12:19:00,60,24.6,270.6,AFTER-NOON,Meeting,No,Personal
+1032,09-06-2016,15:20:00,Miami,Tampa,09-06-2016,17:09:00,109,60.3,663.3,EVENING,Meeting,No,Business
+1033,12-02-2016,13:18:00,Kissimmee,Kissimmee,12-02-2016,14:15:00,57,24.5,269.5,AFTER-NOON,Meal/Entertain,Yes,Business
+1034,18-04-2016,13:09:00,Fort Pierce,Miami,18-04-2016,14:48:00,99,69.6,765.6,AFTER-NOON,Meal/Entertain,No,Business
+1035,17-02-2016,13:16:00,Palm Bay,Fort Pierce,17-02-2016,13:54:00,38,27.9,306.9,AFTER-NOON,Errand/Supplies,No,Business
+1036,08-04-2016,15:23:00,Miami,Miami,08-04-2016,16:18:00,55,40.4,444.4,EVENING,Meal/Entertain,Yes,Personal
+1037,23-06-2016,09:44:00,Miami,Fort Pierce,23-06-2016,11:34:00,110,64.1,705.1,MORNING,Errand/Supplies,No,Business
+1038,23-04-2016,15:15:00,Orlando,West Palm Beach,23-04-2016,16:18:00,63,32.9,361.9,EVENING,Meeting,No,Business
+1039,09-01-2016,16:18:00,West Palm Beach,Fort Pierce,09-01-2016,18:03:00,105,35.4,389.4,EVENING,Meeting,No,Business
+1040,18-01-2016,12:37:00,Kissimmee,Palm Bay,18-01-2016,13:43:00,66,48.6,534.6,AFTER-NOON,Meeting,No,Personal
+1041,30-01-2016,12:06:00,Orlando,Tampa,30-01-2016,12:27:00,21,12.9,141.9,AFTER-NOON,Meal/Entertain,No,Business
+1042,22-03-2016,16:39:00,Kissimmee,Orlando,22-03-2016,17:04:00,25,15.5,170.5,EVENING,Customer Visit,No,Personal
+1043,17-03-2016,14:58:00,Palm Bay,West Palm Beach,17-03-2016,15:49:00,51,27.4,301.4,AFTER-NOON,Errand/Supplies,No,Business
+1044,11-01-2016,18:40:00,Tampa,Miami,11-01-2016,19:18:00,38,19.9,218.9,EVENING,Airport/Travel,No,Business
+1045,27-02-2016,17:50:00,Fort Pierce,West Palm Beach,27-02-2016,18:03:00,13,9.4,103.4,EVENING,Customer Visit,No,Business
+1046,18-03-2016,18:13:00,West Palm Beach,Fort Pierce,18-03-2016,20:02:00,109,60.9,669.9,EVENING,Meeting,No,Business
+1047,09-02-2016,15:07:00,Kissimmee,Tampa,09-02-2016,16:40:00,93,37.5,412.5,EVENING,Meal/Entertain,No,Personal
+1048,28-01-2016,06:03:00,Tampa,Miami,28-01-2016,06:14:00,11,6.4,70.4,MORNING,Meeting,No,Business
+1049,12-05-2016,15:08:00,Fort Pierce,Fort Pierce,12-05-2016,16:01:00,53,38.1,419.1,EVENING,Errand/Supplies,Yes,Business
+1050,16-05-2016,20:07:00,Fort Pierce,Orlando,16-05-2016,20:25:00,18,7.8,85.8,NIGHT,Meal/Entertain,No,Business
+1051,18-05-2016,09:43:00,Kissimmee,Orlando,18-05-2016,10:09:00,26,9.9,108.9,MORNING,Meeting,No,Business
+1052,30-04-2016,14:10:00,Orlando,Fort Pierce,30-04-2016,15:35:00,85,56.4,620.4,AFTER-NOON,Customer Visit,No,Business
+1053,01-02-2016,08:54:00,Miami,Kissimmee,01-02-2016,10:37:00,103,35.9,394.9,MORNING,Meal/Entertain,No,Business
+1054,21-04-2016,10:06:00,Palm Bay,Miami,21-04-2016,10:17:00,11,4.9,53.9,AFTER-NOON,Customer Visit,No,Business
+1055,17-01-2016,13:51:00,West Palm Beach,Fort Pierce,17-01-2016,15:41:00,110,66.8,734.8,AFTER-NOON,Meeting,No,Business
+1056,25-06-2016,08:17:00,Miami,West Palm Beach,25-06-2016,09:21:00,64,50.1,551.1,MORNING,Errand/Supplies,No,Business
+1057,14-05-2016,17:25:00,West Palm Beach,Fort Pierce,14-05-2016,18:45:00,80,35,385,EVENING,Meeting,No,Business
+1058,27-03-2016,09:23:00,Fort Pierce,Orlando,27-03-2016,11:20:00,117,60.6,666.6,MORNING,Customer Visit,No,Personal
+1059,20-01-2016,20:48:00,West Palm Beach,West Palm Beach,20-01-2016,21:25:00,37,23.9,262.9,NIGHT,Meal/Entertain,Yes,Personal
+1060,21-03-2016,08:59:00,Fort Pierce,Miami,21-03-2016,09:56:00,57,21.1,232.1,MORNING,Customer Visit,No,Business
+1061,10-01-2016,10:24:00,West Palm Beach,Palm Bay,10-01-2016,11:16:00,52,37.4,411.4,AFTER-NOON,Meal/Entertain,No,Business
+1062,04-01-2016,15:28:00,Kissimmee,Orlando,04-01-2016,16:48:00,80,29.8,327.8,EVENING,Meal/Entertain,No,Personal
+1063,11-06-2016,20:43:00,Kissimmee,West Palm Beach,11-06-2016,21:10:00,27,14.4,158.4,NIGHT,Errand/Supplies,No,Business
+1064,19-02-2016,14:41:00,Palm Bay,Orlando,19-02-2016,15:37:00,56,20.2,222.2,AFTER-NOON,Meeting,No,Business
+1065,20-05-2016,15:12:00,Palm Bay,Miami,20-05-2016,15:38:00,26,12.8,140.8,EVENING,Meeting,No,Business
+1066,02-05-2016,06:25:00,Orlando,Palm Bay,02-05-2016,07:40:00,75,29.8,327.8,MORNING,Customer Visit,No,Business
+1067,26-01-2016,10:45:00,Palm Bay,West Palm Beach,26-01-2016,11:14:00,29,16.5,181.5,AFTER-NOON,Customer Visit,No,Business
+1068,04-03-2016,14:47:00,Palm Bay,Orlando,04-03-2016,14:52:00,5,2.2,24.2,AFTER-NOON,Meeting,No,Business
+1069,13-06-2016,10:07:00,West Palm Beach,Fort Pierce,13-06-2016,11:11:00,64,31.1,342.1,AFTER-NOON,Meeting,No,Personal
+1070,04-04-2016,09:28:00,Fort Pierce,Kissimmee,04-04-2016,11:02:00,94,36.6,402.6,MORNING,Meeting,No,Business
+1071,12-06-2016,14:33:00,Palm Bay,Kissimmee,12-06-2016,15:13:00,40,27,297,AFTER-NOON,Customer Visit,No,Business
+1072,06-02-2016,20:35:00,Kissimmee,Fort Pierce,06-02-2016,21:02:00,27,11.8,129.8,NIGHT,Customer Visit,No,Personal
+1073,22-01-2016,17:03:00,Miami,West Palm Beach,22-01-2016,17:36:00,33,20,220,EVENING,Meeting,No,Business
+1074,21-05-2016,07:44:00,West Palm Beach,Orlando,21-05-2016,09:31:00,107,83.4,917.4,MORNING,Meeting,No,Business
+1075,15-01-2016,11:47:00,Miami,Miami,15-01-2016,12:54:00,67,38.6,424.6,AFTER-NOON,Airport/Travel,Yes,Business
+1076,09-02-2016,17:23:00,Tampa,Kissimmee,09-02-2016,17:49:00,26,17.6,193.6,EVENING,Meeting,No,Business
+1077,20-06-2016,10:57:00,Palm Bay,Palm Bay,20-06-2016,12:21:00,84,58.9,647.9,AFTER-NOON,Airport/Travel,Yes,Personal
+1078,01-06-2016,10:30:00,Palm Bay,Orlando,01-06-2016,12:30:00,120,89.9,988.9,AFTER-NOON,Customer Visit,No,Personal
+1079,08-04-2016,08:45:00,Fort Pierce,West Palm Beach,08-04-2016,09:14:00,29,13.7,150.7,MORNING,Meal/Entertain,No,Business
+1080,24-05-2016,14:24:00,Kissimmee,West Palm Beach,24-05-2016,15:17:00,53,25.2,277.2,AFTER-NOON,Meeting,No,Personal
+1081,23-02-2016,16:38:00,West Palm Beach,Fort Pierce,23-02-2016,17:52:00,74,51,561,EVENING,Customer Visit,No,Business
+1082,12-01-2016,12:18:00,Miami,Miami,12-01-2016,12:39:00,21,11.2,123.2,AFTER-NOON,Meeting,Yes,Business
+1083,08-04-2016,12:10:00,Orlando,West Palm Beach,08-04-2016,14:10:00,120,95.2,1047.2,AFTER-NOON,Meeting,No,Business
+1084,17-06-2016,16:48:00,Miami,Orlando,17-06-2016,17:58:00,70,26.1,287.1,EVENING,Meeting,No,Personal
+1085,10-05-2016,11:58:00,West Palm Beach,Miami,10-05-2016,13:56:00,118,80.2,882.2,AFTER-NOON,Meeting,No,Business
+1086,17-02-2016,09:39:00,Orlando,Miami,17-02-2016,11:25:00,106,41.9,460.9,MORNING,Customer Visit,No,Personal
+1087,13-05-2016,12:39:00,Tampa,Palm Bay,13-05-2016,13:48:00,69,25.7,282.7,AFTER-NOON,Meeting,No,Business
+1088,11-01-2016,06:56:00,Kissimmee,Orlando,11-01-2016,07:27:00,31,22.3,245.3,MORNING,Meeting,No,Business
+1089,29-01-2016,07:35:00,Palm Bay,Tampa,29-01-2016,08:08:00,33,23.1,254.1,MORNING,Meal/Entertain,No,Personal
+1090,06-02-2016,07:50:00,Palm Bay,West Palm Beach,06-02-2016,09:18:00,88,33.5,368.5,MORNING,Customer Visit,No,Personal
+1091,16-05-2016,19:21:00,Tampa,Miami,16-05-2016,20:22:00,61,35.4,389.4,NIGHT,Airport/Travel,No,Personal
+1092,19-03-2016,15:08:00,Miami,Kissimmee,19-03-2016,16:26:00,78,33.2,365.2,EVENING,Customer Visit,No,Business
+1093,12-03-2016,15:06:00,Kissimmee,Tampa,12-03-2016,17:01:00,115,41,451,EVENING,Meeting,No,Business
+1094,09-05-2016,15:08:00,Kissimmee,Orlando,09-05-2016,15:55:00,47,24,264,EVENING,Customer Visit,No,Business
+1095,01-04-2016,06:01:00,West Palm Beach,Orlando,01-04-2016,08:01:00,120,70.1,771.1,MORNING,Meeting,No,Business
+1096,24-01-2016,08:48:00,Miami,Kissimmee,24-01-2016,09:28:00,40,27.5,302.5,MORNING,Meeting,No,Personal
+1097,01-04-2016,09:28:00,Fort Pierce,Fort Pierce,01-04-2016,11:19:00,111,64.5,709.5,MORNING,Meeting,Yes,Personal
+1098,27-01-2016,17:05:00,Kissimmee,Orlando,27-01-2016,18:53:00,108,72.7,799.7,EVENING,Meal/Entertain,No,Business
+1099,15-02-2016,07:24:00,West Palm Beach,Kissimmee,15-02-2016,07:57:00,33,18.3,201.3,MORNING,Customer Visit,No,Personal
+1100,14-03-2016,19:38:00,Orlando,Orlando,14-03-2016,21:30:00,112,69.9,768.9,NIGHT,Meeting,Yes,Business
+1101,03-05-2016,07:40:00,Orlando,Fort Pierce,03-05-2016,09:08:00,88,34.9,383.9,MORNING,Errand/Supplies,No,Personal
+1102,11-06-2016,06:34:00,Kissimmee,Palm Bay,11-06-2016,06:40:00,6,3.4,37.4,MORNING,Airport/Travel,No,Business
+1103,19-03-2016,14:16:00,Palm Bay,West Palm Beach,19-03-2016,14:39:00,23,10.6,116.6,AFTER-NOON,Meal/Entertain,No,Business
+1104,12-06-2016,14:46:00,Miami,Fort Pierce,12-06-2016,15:23:00,37,28.7,315.7,AFTER-NOON,Meeting,No,Business
+1105,18-01-2016,08:20:00,West Palm Beach,Kissimmee,18-01-2016,08:35:00,15,8.4,92.4,MORNING,Meeting,No,Business
+1106,17-02-2016,13:40:00,West Palm Beach,West Palm Beach,17-02-2016,14:14:00,34,16.6,182.6,AFTER-NOON,Meal/Entertain,Yes,Personal
+1107,12-06-2016,08:19:00,Miami,Orlando,12-06-2016,09:12:00,53,27.1,298.1,MORNING,Customer Visit,No,Business
+1108,31-03-2016,13:09:00,West Palm Beach,West Palm Beach,31-03-2016,13:50:00,41,15.7,172.7,AFTER-NOON,Meal/Entertain,Yes,Business
+1109,04-04-2016,09:39:00,Palm Bay,Miami,04-04-2016,09:45:00,6,3,33,MORNING,Airport/Travel,No,Business
+1110,15-05-2016,17:55:00,Orlando,Tampa,15-05-2016,19:03:00,68,39.6,435.6,EVENING,Customer Visit,No,Personal
+1111,19-05-2016,11:02:00,Fort Pierce,Kissimmee,19-05-2016,11:16:00,14,5.4,59.4,AFTER-NOON,Meeting,No,Business
+1112,27-05-2016,20:31:00,Fort Pierce,Miami,27-05-2016,21:15:00,44,14.9,163.9,NIGHT,Errand/Supplies,No,Personal
+1113,14-03-2016,13:32:00,Fort Pierce,Palm Bay,14-03-2016,13:43:00,11,6.9,75.9,AFTER-NOON,Meeting,No,Business
+1114,13-05-2016,12:34:00,Tampa,Tampa,13-05-2016,13:58:00,84,37.2,409.2,AFTER-NOON,Meal/Entertain,Yes,Business
+1115,11-05-2016,07:36:00,Miami,Palm Bay,11-05-2016,08:25:00,49,32.1,353.1,MORNING,Airport/Travel,No,Personal
+1116,19-05-2016,15:22:00,Tampa,Tampa,19-05-2016,17:06:00,104,63.1,694.1,EVENING,Errand/Supplies,Yes,Business
+1117,10-06-2016,17:50:00,Orlando,Orlando,10-06-2016,19:16:00,86,41.1,452.1,EVENING,Meal/Entertain,Yes,Business
+1118,27-01-2016,10:25:00,West Palm Beach,Tampa,27-01-2016,11:14:00,49,18.7,205.7,AFTER-NOON,Airport/Travel,No,Business
+1119,28-06-2016,17:30:00,Miami,West Palm Beach,28-06-2016,18:14:00,44,25.6,281.6,EVENING,Errand/Supplies,No,Personal
+1120,10-06-2016,17:35:00,Orlando,West Palm Beach,10-06-2016,19:34:00,119,76.6,842.6,EVENING,Meeting,No,Business
+1121,25-04-2016,14:03:00,West Palm Beach,West Palm Beach,25-04-2016,14:37:00,34,27,297,AFTER-NOON,Meeting,Yes,Business
+1122,23-05-2016,08:01:00,Kissimmee,Tampa,23-05-2016,09:32:00,91,30.2,332.2,MORNING,Errand/Supplies,No,Business
+1123,23-04-2016,20:25:00,Fort Pierce,Tampa,23-04-2016,21:23:00,58,42,462,NIGHT,Customer Visit,No,Personal
+1124,22-05-2016,07:28:00,Fort Pierce,Orlando,22-05-2016,08:54:00,86,53.1,584.1,MORNING,Meeting,No,Personal
+1125,10-02-2016,11:26:00,Palm Bay,West Palm Beach,10-02-2016,12:55:00,89,32.1,353.1,AFTER-NOON,Meeting,No,Business
+1126,01-01-2016,17:19:00,Kissimmee,Palm Bay,01-01-2016,18:58:00,99,56,616,EVENING,Customer Visit,No,Personal
+1127,19-05-2016,11:12:00,Tampa,Orlando,19-05-2016,12:39:00,87,27.3,300.3,AFTER-NOON,Customer Visit,No,Business
+1128,10-03-2016,07:37:00,West Palm Beach,Kissimmee,10-03-2016,09:09:00,92,32.2,354.2,MORNING,Meeting,No,Business
+1129,12-02-2016,14:08:00,Kissimmee,Kissimmee,12-02-2016,16:08:00,120,61.7,678.7,AFTER-NOON,Customer Visit,Yes,Business
+1130,04-05-2016,17:27:00,West Palm Beach,West Palm Beach,04-05-2016,19:20:00,113,76.8,844.8,EVENING,Errand/Supplies,Yes,Business
+1131,20-02-2016,06:51:00,Fort Pierce,Palm Bay,20-02-2016,07:47:00,56,31.1,342.1,MORNING,Meeting,No,Business
+1132,27-05-2016,11:12:00,Fort Pierce,Kissimmee,27-05-2016,12:08:00,56,27,297,AFTER-NOON,Errand/Supplies,No,Business
+1133,16-03-2016,11:55:00,Miami,Fort Pierce,16-03-2016,13:31:00,96,39.8,437.8,AFTER-NOON,Customer Visit,No,Personal
+1134,26-03-2016,12:18:00,Orlando,Palm Bay,26-03-2016,12:51:00,33,24.1,265.1,AFTER-NOON,Meeting,No,Business
+1135,12-05-2016,07:44:00,Fort Pierce,Kissimmee,12-05-2016,09:37:00,113,76.4,840.4,MORNING,Errand/Supplies,No,Business
+1136,11-02-2016,08:00:00,Tampa,Miami,11-02-2016,08:27:00,27,21.1,232.1,MORNING,Meeting,No,Business
+1137,18-02-2016,20:53:00,Miami,Orlando,18-02-2016,21:02:00,9,5.1,56.1,NIGHT,Airport/Travel,No,Personal
+1138,12-01-2016,18:05:00,Orlando,Kissimmee,12-01-2016,19:13:00,68,27.3,300.3,EVENING,Customer Visit,No,Business
+1139,21-03-2016,11:34:00,West Palm Beach,West Palm Beach,21-03-2016,13:01:00,87,48.3,531.3,AFTER-NOON,Meal/Entertain,Yes,Business
+1140,27-04-2016,20:34:00,West Palm Beach,Tampa,27-04-2016,21:01:00,27,21.2,233.2,NIGHT,Meeting,No,Personal
+1141,25-02-2016,19:40:00,West Palm Beach,West Palm Beach,25-02-2016,20:29:00,49,35.4,389.4,NIGHT,Meal/Entertain,Yes,Business
+1142,18-05-2016,10:46:00,Miami,Orlando,18-05-2016,10:52:00,6,2.6,28.6,AFTER-NOON,Errand/Supplies,No,Business
+1143,02-05-2016,11:57:00,Tampa,West Palm Beach,02-05-2016,12:40:00,43,21.5,236.5,AFTER-NOON,Meeting,No,Business
+1144,15-03-2016,18:05:00,Palm Bay,Tampa,15-03-2016,19:57:00,112,77.3,850.3,EVENING,Meeting,No,Personal
+1145,25-02-2016,20:18:00,Orlando,Kissimmee,25-02-2016,21:34:00,76,28.6,314.6,NIGHT,Customer Visit,No,Personal
+1146,13-02-2016,18:07:00,Tampa,Orlando,13-02-2016,18:42:00,35,19.5,214.5,EVENING,Meal/Entertain,No,Business
+1147,03-06-2016,09:16:00,Miami,Tampa,03-06-2016,10:40:00,84,33.9,372.9,MORNING,Meeting,No,Business
+1148,21-06-2016,20:15:00,Orlando,Kissimmee,21-06-2016,20:31:00,16,7.6,83.6,NIGHT,Airport/Travel,No,Business
+1149,05-03-2016,20:38:00,Palm Bay,West Palm Beach,05-03-2016,21:11:00,33,18.4,202.4,NIGHT,Meal/Entertain,No,Business
+1150,23-02-2016,14:14:00,Tampa,Miami,23-02-2016,15:05:00,51,24.3,267.3,AFTER-NOON,Meeting,No,Business
+1151,25-03-2016,13:38:00,West Palm Beach,Tampa,25-03-2016,13:55:00,17,9.6,105.6,AFTER-NOON,Customer Visit,No,Business
+1152,16-01-2016,09:40:00,Kissimmee,Kissimmee,16-01-2016,10:24:00,44,25.7,282.7,MORNING,Meeting,Yes,Business
+1153,28-01-2016,12:31:00,Fort Pierce,Orlando,28-01-2016,12:43:00,12,6.5,71.5,AFTER-NOON,Airport/Travel,No,Business
+1154,02-03-2016,12:41:00,Kissimmee,Palm Bay,02-03-2016,14:28:00,107,67.5,742.5,AFTER-NOON,Meal/Entertain,No,Business
